@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "key": "dG9rdXNoaW1hL21pbWFfY2l0eS8yMDI2LzIwMjYwNzAxXzAwMDMzCg==",
+    "projectName": "【公告 一般競争入札（施工能力審査型）】地域学習２ - 令和8年度うだつアリーナテニスコート夜間照明更新工事",
+    "orgName": "徳島県美馬市",
+    "prefecture": "徳島県",
+    "city": "美馬市",
+    "issueDate": "2026-07-01T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.mima.lg.jp/fs/3/4/9/6/5/0/_/01-____2_____.pdf"
+  },
+  {
+    "key": "c2VhcmNoL3BfcG9ydGFsLzIwMjYvMDcvMjAyNjA3MDFfNzQ4ODUK",
+    "projectName": "令和７年度大阪刑務所職員宿舎外部建具等改修工事",
+    "orgName": "法務省",
+    "prefecture": "大阪府",
+    "city": "",
+    "issueDate": "2026-07-01T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101"
+  },
+  {
+    "key": "b2theWFtYS9va2F5YW1hX2NpdHkvMjAyNi8yMDI2MDcwMV8xMjY0OQo=",
+    "projectName": "岡山市福祉交流プラザうの屋上・外壁ほか改修工事",
+    "orgName": "岡山県岡山市",
+    "prefecture": "岡山県",
+    "city": "岡山市",
+    "issueDate": "2026-07-01T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://keiyaku.city.okayama.jp/webftp/exe/2026017091.pdf"
+  },
+  {
+    "key": "b2theWFtYS9va2F5YW1hX2NpdHkvMjAyNi8yMDI2MDcwMV8xMjY0Ngo=",
+    "projectName": "岡山市植松老人ふれあいプラザ耐震改修ほか工事",
+    "orgName": "岡山県岡山市",
+    "prefecture": "岡山県",
+    "city": "岡山市",
+    "issueDate": "2026-07-01T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://keiyaku.city.okayama.jp/webftp/exe/2026016161.pdf"
+  },
+  {
+    "key": "bmFnYW5vL2thcnVpemF3YV90b3duLzIwMjYvMjAyNjA3MDFfMDAwMTUK",
+    "projectName": "令和8年度 町単 追分宿津軽屋保存修理工事",
+    "orgName": "長野県軽井沢町",
+    "prefecture": "長野県",
+    "city": "軽井沢町",
+    "issueDate": "2026-07-01T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.town.karuizawa.lg.jp/uploaded/attachment/9777.pdf"
+  },
+  {
+    "key": "aXNoaWthd2EvbmFuYW9fY2l0eS8yMDI2LzIwMjYwNzAxXzAwMjMzCg==",
+    "projectName": "令和8年度6災39号小丸山城址公園（河畔の広場）都市災害復旧工事（機械設備）",
+    "orgName": "石川県七尾市",
+    "prefecture": "石川県",
+    "city": "七尾市",
+    "issueDate": "2026-07-01T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/09_koukoku20260701.pdf"
+  },
+  {
+    "key": "aXNoaWthd2EvbmFuYW9fY2l0eS8yMDI2LzIwMjYwNzAxXzAwMjMyCg==",
+    "projectName": "令和8年度七尾市田鶴浜武道館災害復旧工事",
+    "orgName": "石川県七尾市",
+    "prefecture": "石川県",
+    "city": "七尾市",
+    "issueDate": "2026-07-01T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/08_koukoku20260701.pdf"
+  },
+  {
+    "key": "aXNoaWthd2EvbmFuYW9fY2l0eS8yMDI2LzIwMjYwNzAxXzAwMjMxCg==",
+    "projectName": "令和8年度6災39号小丸山城址公園（河畔の広場）都市災害復旧工事（建築）",
+    "orgName": "石川県七尾市",
+    "prefecture": "石川県",
+    "city": "七尾市",
+    "issueDate": "2026-07-01T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/07_koukoku20260701.pdf"
+  },
+  {
+    "key": "aXNoaWthd2EvbmFuYW9fY2l0eS8yMDI2LzIwMjYwNzAxXzAwMjMwCg==",
+    "projectName": "令和8年度七尾市子どもの遊び場整備工事（日和ヶ丘カルチャーパーク）（トイレ棟）",
+    "orgName": "石川県七尾市",
+    "prefecture": "石川県",
+    "city": "七尾市",
+    "issueDate": "2026-07-01T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/06_koukoku20260701.pdf"
+  },
+  {
+    "key": "Z292Mi9rYWlob19tbGl0XzAya2Fua3UvMjAyNi8yMDI2MDcwMV8wMTI5MQo=",
+    "projectName": "三島下宿舎改修工事",
+    "orgName": "海上保安庁第二管区海上保安本部",
+    "prefecture": "宮城県",
+    "city": "塩釜市",
+    "issueDate": "2026-07-01T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.kaiho.mlit.go.jp/02kanku/nyusatu/00_kokoku/r8_7/20260701_misimasita/20260701_koukoku_misimasita.pdf"
+  },
+  {
+    "key": "Z2lmdS9lbmFfY2l0eS8yMDI2LzIwMjYwNzAxXzAwOTI0Cg==",
+    "projectName": "契特環第26号 R418横道工区下水道管支障移設工事 (圧縮ファイル: 3.1MB)",
+    "orgName": "岐阜県恵那市",
+    "prefecture": "岐阜県",
+    "city": "恵那市",
+    "issueDate": "2026-07-01T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ena.lg.jp/material/files/group/3/20260701tokkann26.zip"
+  },
+  {
+    "key": "Z2lmdS9lbmFfY2l0eS8yMDI2LzIwMjYwNzAxXzAwOTIzCg==",
+    "projectName": "契水工第16号 R418横道工区水道管補償移転工事 (圧縮ファイル: 4.1MB)",
+    "orgName": "岐阜県恵那市",
+    "prefecture": "岐阜県",
+    "city": "恵那市",
+    "issueDate": "2026-07-01T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ena.lg.jp/material/files/group/3/20260701suikou16.zip"
+  },
+  {
+    "key": "Z2lmdS9lbmFfY2l0eS8yMDI2LzIwMjYwNzAxXzAwOTIwCg==",
+    "projectName": "契水工第15号 恵那南地区量水器交換（その2）工事 (圧縮ファイル: 3.0MB)",
+    "orgName": "岐阜県恵那市",
+    "prefecture": "岐阜県",
+    "city": "恵那市",
+    "issueDate": "2026-07-01T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ena.lg.jp/material/files/group/3/20260701suikou15.zip"
+  },
+  {
+    "key": "Z2lmdS9lbmFfY2l0eS8yMDI2LzIwMjYwNzAxXzAwOTE5Cg==",
+    "projectName": "契水工第14号 恵那南地区量水器交換（その1）工事 (圧縮ファイル: 3.0MB)",
+    "orgName": "岐阜県恵那市",
+    "prefecture": "岐阜県",
+    "city": "恵那市",
+    "issueDate": "2026-07-01T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ena.lg.jp/material/files/group/3/20260701suikou14.zip"
+  },
+  {
+    "key": "Z2lmdS9lbmFfY2l0eS8yMDI2LzIwMjYwNzAxXzAwOTE2Cg==",
+    "projectName": "契水工第11号 恵那北地区量水器交換（その1）工事 (圧縮ファイル: 3.0MB)",
+    "orgName": "岐阜県恵那市",
+    "prefecture": "岐阜県",
+    "city": "恵那市",
+    "issueDate": "2026-07-01T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ena.lg.jp/material/files/group/3/20260701suikou11.zip"
+  },
+  {
+    "key": "Z2lmdS9lbmFfY2l0eS8yMDI2LzIwMjYwNzAxXzAwOTE1Cg==",
+    "projectName": "契建設第51号 新竹折弁財天線舗装修繕工事 (圧縮ファイル: 3.0MB)",
+    "orgName": "岐阜県恵那市",
+    "prefecture": "岐阜県",
+    "city": "恵那市",
+    "issueDate": "2026-07-01T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ena.lg.jp/material/files/group/3/20260701kennsetsu51.zip"
+  },
+  {
+    "key": "eWFtYWd1Y2hpL2hpa2FyaV9jaXR5LzIwMjYvMjAyNjA2MzBfMDAzMzEK",
+    "projectName": "やまと学園建設工事（建築工事）",
+    "orgName": "山口県光市",
+    "prefecture": "山口県",
+    "city": "光市",
+    "issueDate": "2026-06-30T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.hikari.lg.jp/material/files/group/22/01koukoku_yamatogakuenkensetukouji_kentiku.pdf"
+  },
+  {
+    "key": "aGlyb3NoaW1hL2hpZ2FzaGloaXJvc2hpbWFzaGkvMjAyNi8yMDI2MDYzMF8wMzczOAo=",
+    "projectName": "2号7-108-105本庁舎玄関タイル改修工事(PDFファイル:207.1KB)",
+    "orgName": "広島県東広島市",
+    "prefecture": "広島県",
+    "city": "東広島市",
+    "issueDate": "2026-06-30T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-105_kokoku.pdf"
+  },
+  {
+    "key": "aGlyb3NoaW1hL2hpZ2FzaGloaXJvc2hpbWFzaGkvMjAyNi8yMDI2MDYzMF8wMzczNwo=",
+    "projectName": "2号7-108-104豊栄市民グラウンドダッグアウト改修工事(PDFファイル:212.3KB)",
+    "orgName": "広島県東広島市",
+    "prefecture": "広島県",
+    "city": "東広島市",
+    "issueDate": "2026-06-30T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-104_kokoku.pdf"
+  },
+  {
+    "key": "aGlyb3NoaW1hL2hpZ2FzaGloaXJvc2hpbWFzaGkvMjAyNi8yMDI2MDYzMF8wMzczNgo=",
+    "projectName": "2号7-108-103福富方面隊福富西分団格納庫新築工事その2(PDFファイル:217.7KB)",
+    "orgName": "広島県東広島市",
+    "prefecture": "広島県",
+    "city": "東広島市",
+    "issueDate": "2026-06-30T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-103_kokoku.pdf"
+  },
+  {
+    "key": "Z292NS9ub2tlbl9raWtvLzIwMjYvMjAyNjA2MzBfMDc2MjQK",
+    "projectName": "構造生物学研究棟空調ほか改修工事",
+    "orgName": "国立研究開発法人農業・食品産業技術総合研究機構",
+    "prefecture": "その他",
+    "city": "",
+    "issueDate": "2026-06-30T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.naro.go.jp/supply/files/08k008.pdf"
+  },
+  {
+    "key": "Z2lmdS9tb3Rvc3VfY2l0eS8yMDI2LzIwMjYwNjMwXzAxMTY4Cg==",
+    "projectName": "社教工第2号_R8真正体育センター屋根等改修工事(PDF形式、155.12KB)",
+    "orgName": "岐阜県本巣市",
+    "prefecture": "岐阜県",
+    "city": "本巣市",
+    "issueDate": "2026-06-30T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.motosu.lg.jp/cmsfiles/contents/0000003/3093/syakyoukou2.pdf"
+  },
+  {
+    "key": "Z2lmdS9naWZ1X2tvc2VuLzIwMjYvMjAyNjA2MzBfMDAxNjgK",
+    "projectName": "岐阜工業高専2号館東空調改修工事（Ⅱ期）（1MB）",
+    "orgName": "独立行政法人国立高等専門学校機構岐阜工業高等専門学校",
+    "prefecture": "岐阜県",
+    "city": "本巣市",
+    "issueDate": "2026-06-30T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.gifu-nct.ac.jp/uploads/2568/1_1.pdf"
+  },
+  {
+    "key": "ZnVrdW9rYS9jaGlrdXNoaW5vX2NpdHkvMjAyNi8yMDI2MDYzMF8wMDA4Ngo=",
+    "projectName": "起工第63号 筑紫野中学校管理教室棟金属建具改修工事",
+    "orgName": "福岡県筑紫野市",
+    "prefecture": "福岡県",
+    "city": "筑紫野市",
+    "issueDate": "2026-06-30T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.chikushino.fukuoka.jp/uploaded/attachment/33732.pdf"
+  },
+  {
+    "key": "dG9reW8vYnVua3lvX2NpdHkvMjAyNi8yMDI2MDYyOV8wMDE2NQo=",
+    "projectName": "特別養護老人ホーム文京白山の郷大規模改修その他工事（再）",
+    "orgName": "東京都文京区",
+    "prefecture": "東京都",
+    "city": "文京区",
+    "issueDate": "2026-06-29T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.bunkyo.lg.jp/documents/6092/nyuusatukoukokuhakusank.pdf"
+  },
+  {
+    "key": "dG9rdXNoaW1hL3lvc2hpbm9nYXdhX2NpdHkvMjAyNi8yMDI2MDYyOV8wMDA0MAo=",
+    "projectName": "令和８年度 吉野川市公共下水道地震対策第１工区工事",
+    "orgName": "徳島県吉野川市",
+    "prefecture": "徳島県",
+    "city": "吉野川市",
+    "issueDate": "2026-06-29T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.yoshinogawa.lg.jp/docs/2026062300023/file_contents/koukoku.pdf"
+  },
+  {
+    "key": "c2VhcmNoL3BfcG9ydGFsLzIwMjYvMDYvMjAyNjA2MjlfNzQ2NTQK",
+    "projectName": "高知地方気象台室戸岬検潮所修繕工事",
+    "orgName": "国土交通省",
+    "prefecture": "大阪府",
+    "city": "",
+    "issueDate": "2026-06-29T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101"
+  },
+  {
+    "key": "c2VhcmNoL3BfcG9ydGFsLzIwMjYvMDYvMjAyNjA2MjlfNzQ2NzcK",
+    "projectName": "令和８年度新宿御苑展示工事",
+    "orgName": "環境省",
+    "prefecture": "東京都",
+    "city": "",
+    "issueDate": "2026-06-29T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101"
+  },
+  {
+    "key": "c2VhcmNoL3BfcG9ydGFsLzIwMjYvMDYvMjAyNjA2MjlfNzQ3NTcK",
+    "projectName": "令和７年度広島刑務所職員宿舎４号棟等改修工事",
+    "orgName": "法務省",
+    "prefecture": "広島県",
+    "city": "",
+    "issueDate": "2026-06-29T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101"
+  },
+  {
+    "key": "bWl5YWdpL2t1cmloYXJhX2NpdHkvMjAyNi8yMDI2MDYyOV8wMDkzNwo=",
+    "projectName": "【入札公告】金成総合支所内装等改修工事（PDF：281KB）",
+    "orgName": "宮城県栗原市",
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "issueDate": "2026-06-29T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.kuriharacity.jp/w004/030/010/200/2026koukou/0629/0629koukoku1.pdf?629913"
+  },
+  {
+    "key": "aWJhcmFraS9zaGlucmluX3NvZ29fa2Vua3l1am8vMjAyNi8yMDI2MDYyOV8wMTYwMgo=",
+    "projectName": "九州支所研究本館屋上防水他改修工事設計業務",
+    "orgName": "国立研究開発法人森林研究・整備機構",
+    "prefecture": "茨城県",
+    "city": "つくば市",
+    "issueDate": "2026-06-29T00:00:00+09:00",
+    "deadline": "2026-07-24T00:00:00+09:00",
+    "url": "https://www.ffpri.go.jp/kys/business/chotatsu/documents/20260629_koukoku.pdf"
+  },
+  {
+    "key": "Z2lmdS90YWtheWFtYV9jaXR5LzIwMjYvMjAyNjA2MjlfMDAwNjgK",
+    "projectName": "08教総第120号朝日・高根義務教育学校（仮称）整備工事（機械）",
+    "orgName": "岐阜県高山市",
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "issueDate": "2026-06-29T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/790/08kyousou120.pdf"
+  },
+  {
+    "key": "Z2lmdS90YWtheWFtYV9jaXR5LzIwMjYvMjAyNjA2MjlfMDAwNjcK",
+    "projectName": "08教総第119号朝日・高根義務教育学校（仮称）整備工事（電気）",
+    "orgName": "岐阜県高山市",
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "issueDate": "2026-06-29T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/790/08kyousou119.pdf"
+  },
+  {
+    "key": "Z2lmdS90YWtheWFtYV9jaXR5LzIwMjYvMjAyNjA2MjlfMDAwNjYK",
+    "projectName": "08教総第118号朝日・高根義務教育学校（仮称）整備工事（建築）",
+    "orgName": "岐阜県高山市",
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "issueDate": "2026-06-29T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/790/08kyousou118.pdf"
+  }
+]
