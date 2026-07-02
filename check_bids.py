@@ -1,24 +1,24 @@
 """
 官公需情報ポータルサイト（kkj.go.jp）の検索APIを使って
 「内装」関連の入札案件（国・都道府県・市区町村）の新着をチェックし、
-新しく見つかった案件があればメールで通知するスクリプト。
+一覧ページ用のデータファイル（bids_data.json）を更新するスクリプト。
 
 GitHub Actions で定期実行される想定。
 """
 
 import os
 import json
-import time
-import smtplib
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
-from email.mime.text import MIMEText
-from email.header import Header
 
 import requests
 
 API_URL = "https://www.kkj.go.jp/api/"
 SEEN_FILE = os.path.join(os.path.dirname(__file__), "seen_ids.json")
+DATA_FILE = os.path.join(os.path.dirname(__file__), "bids_data.json")
+
+# 一覧に残しておく日数（これより古い公告日の案件は一覧から自動的に削除）
+KEEP_DAYS = 60
 
 # ---- 検索条件（ここを編集して調整してください） ----
 # OR条件でまとめて検索するキーワード
@@ -33,32 +33,6 @@ LOOKBACK_DAYS = 5
 
 # 取得件数上限（APIの仕様上、最大1000）
 COUNT = 1000
-
-def _debug_info(label, value):
-    """SecretsのマスキングでGitHub上では***になるため、中身は見せずに
-    「怪しい文字（空白・制御文字・全角文字など）が含まれているか」だけを表示する"""
-    if value is None:
-        print(f"{label}: None (未設定)")
-        return
-    weird = [(i, f"U+{ord(c):04X}") for i, c in enumerate(value) if ord(c) < 0x21 or ord(c) > 0x7E]
-    print(f"{label}: 長さ={len(value)} 通常のASCII以外の文字={weird}")
-
-
-def _clean_env(value):
-    """コピペ時に紛れ込みやすい不可視文字（ノーブレークスペース等）を除去"""
-    if value is None:
-        return value
-    return value.strip().replace("\u00a0", "").replace("\u200b", "")
-
-
-SMTP_HOST = "smtp.gmail.com"
-SMTP_PORT = 587
-SMTP_USER = _clean_env(os.environ.get("SMTP_USER"))          # 送信元Gmailアドレス
-SMTP_PASSWORD = _clean_env(os.environ.get("SMTP_PASSWORD"))  # Gmailアプリパスワード
-
-# 通知を受け取るメールアドレス。カンマ区切りで複数指定可能（例: "a@example.com,b@example.com"）
-_notify_to_raw = _clean_env(os.environ.get("NOTIFY_TO")) or SMTP_USER
-NOTIFY_TO_LIST = [addr.strip() for addr in _notify_to_raw.split(",") if addr.strip()]
 
 
 def fetch_bids():
@@ -105,69 +79,56 @@ def save_seen(seen):
         json.dump(trimmed, f, ensure_ascii=False, indent=2)
 
 
-def build_message(b):
-    area = f"{b.get('PrefectureName', '')}{b.get('CityName', '')}".strip()
-    lines = [
-        "【入札情報 新着】",
-        b.get("ProjectName", "(件名不明)"),
-        f"発注機関: {b.get('OrganizationName', '不明')}",
-    ]
-    if area:
-        lines.append(f"地域: {area}")
-    if b.get("CftIssueDate"):
-        lines.append(f"公告日: {b.get('CftIssueDate')}")
-    if b.get("TenderSubmissionDeadline"):
-        lines.append(f"入札締切: {b.get('TenderSubmissionDeadline')}")
-    if b.get("ExternalDocumentURI"):
-        lines.append(b["ExternalDocumentURI"])
-    return "\n".join(lines)
+def load_data():
+    if os.path.exists(DATA_FILE):
+        with open(DATA_FILE, encoding="utf-8") as f:
+            return json.load(f)
+    return []
 
 
-def send_email(subject, text):
-    if not SMTP_USER or not SMTP_PASSWORD:
-        raise RuntimeError("SMTP_USER / SMTP_PASSWORD が設定されていません")
-    if not NOTIFY_TO_LIST:
-        raise RuntimeError("NOTIFY_TO が設定されていません")
+def save_data(records):
+    with open(DATA_FILE, "w", encoding="utf-8") as f:
+        json.dump(records, f, ensure_ascii=False, indent=2)
 
-    msg = MIMEText(text, "plain", "utf-8")
-    msg["Subject"] = Header(subject, "utf-8")  # 日本語件名を正しくエンコード
-    msg["From"] = SMTP_USER
-    msg["To"] = ", ".join(NOTIFY_TO_LIST)
 
-    with smtplib.SMTP(SMTP_HOST, SMTP_PORT) as server:
-        server.starttls()
-        server.login(SMTP_USER, SMTP_PASSWORD)
-        server.send_message(msg, from_addr=SMTP_USER, to_addrs=NOTIFY_TO_LIST)
+def to_record(b):
+    return {
+        "key": b.get("Key"),
+        "projectName": b.get("ProjectName") or "(件名不明)",
+        "orgName": b.get("OrganizationName") or "不明",
+        "prefecture": b.get("PrefectureName") or "その他",
+        "city": b.get("CityName") or "",
+        "issueDate": b.get("CftIssueDate") or "",
+        "deadline": b.get("TenderSubmissionDeadline") or "",
+        "url": b.get("ExternalDocumentURI") or "",
+    }
 
 
 def main():
-    _debug_info("SMTP_USER", SMTP_USER)
-    for i, addr in enumerate(NOTIFY_TO_LIST):
-        _debug_info(f"NOTIFY_TO_LIST[{i}]", addr)
     seen = load_seen()
     bids = fetch_bids()
     print(f"取得件数: {len(bids)}")
 
     new_items = [b for b in bids if b.get("Key") and b["Key"] not in seen]
-
-    if not new_items:
-        print("新着案件はありませんでした")
-        save_seen(seen)  # LOOKBACK_DAYSの範囲でseenを更新しておく
-        return
-
     for b in new_items:
         seen.add(b["Key"])
-        msg = build_message(b)
-        subject = f"【入札情報】{b.get('ProjectName', '新着案件')}"
-        try:
-            send_email(subject, msg)
-            print("通知送信:", b.get("ProjectName"))
-        except Exception as e:
-            print("通知送信に失敗:", e)
-        time.sleep(1)  # 連続送信の間隔をあける
 
+    # 一覧ページ用データ：新着分を追加し、古い案件は削除して保存
+    data = load_data()
+    existing_keys = {r["key"] for r in data}
+    added = 0
+    for b in new_items:
+        if b.get("Key") not in existing_keys:
+            data.append(to_record(b))
+            added += 1
+
+    cutoff = (datetime.now().date() - timedelta(days=KEEP_DAYS)).isoformat()
+    data = [r for r in data if not r.get("issueDate") or r["issueDate"] >= cutoff]
+    data.sort(key=lambda r: r.get("issueDate", ""), reverse=True)
+    save_data(data)
     save_seen(seen)
-    print(f"{len(new_items)} 件の新着案件を通知しました")
+
+    print(f"新規追加: {added} 件 / 一覧データ合計: {len(data)} 件")
 
 
 if __name__ == "__main__":
