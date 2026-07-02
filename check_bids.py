@@ -13,31 +13,25 @@ import smtplib
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 from email.mime.text import MIMEText
+from email.header import Header
 
 import requests
 
 API_URL = "https://www.kkj.go.jp/api/"
 SEEN_FILE = os.path.join(os.path.dirname(__file__), "seen_ids.json")
 
-# ---- 検索条件（ここを編集して調整してください） ----
-# OR条件でまとめて検索するキーワード
 KEYWORDS = ["内装", "内装工事", "内装改修", "内装仕上", "建具工事"]
 QUERY = " OR ".join(KEYWORDS)
 
-# カテゴリー: 1=物品, 2=工事, 3=役務 （複数条件が必要な場合は None にして後段のPython側で絞り込み）
 CATEGORY = 2  # 工事
-
-# 何日前の公告日以降を対象にするか（APIへの負荷軽減・重複取得防止のため）
 LOOKBACK_DAYS = 5
-
-# 取得件数上限（APIの仕様上、最大1000）
 COUNT = 1000
 
 SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 587
-SMTP_USER = os.environ.get("SMTP_USER")          # 送信元Gmailアドレス
-SMTP_PASSWORD = os.environ.get("SMTP_PASSWORD")  # Gmailアプリパスワード
-NOTIFY_TO = os.environ.get("NOTIFY_TO", SMTP_USER)  # 通知を受け取るメールアドレス（未指定なら送信元と同じ）
+SMTP_USER = os.environ.get("SMTP_USER")
+SMTP_PASSWORD = os.environ.get("SMTP_PASSWORD")
+NOTIFY_TO = os.environ.get("NOTIFY_TO", SMTP_USER)
 
 
 def fetch_bids():
@@ -78,7 +72,6 @@ def load_seen():
 
 
 def save_seen(seen):
-    # 無限に増え続けないよう、直近で見つかった分だけ残す（簡易的に最新5000件まで保持）
     trimmed = list(seen)[-5000:]
     with open(SEEN_FILE, "w", encoding="utf-8") as f:
         json.dump(trimmed, f, ensure_ascii=False, indent=2)
@@ -107,14 +100,14 @@ def send_email(subject, text):
         raise RuntimeError("SMTP_USER / SMTP_PASSWORD が設定されていません")
 
     msg = MIMEText(text, "plain", "utf-8")
-    msg["Subject"] = subject
+    msg["Subject"] = Header(subject, "utf-8")
     msg["From"] = SMTP_USER
     msg["To"] = NOTIFY_TO
 
     with smtplib.SMTP(SMTP_HOST, SMTP_PORT) as server:
         server.starttls()
         server.login(SMTP_USER, SMTP_PASSWORD)
-        server.sendmail(SMTP_USER, [NOTIFY_TO], msg.as_string())
+        server.send_message(msg, from_addr=SMTP_USER, to_addrs=[NOTIFY_TO])
 
 
 def main():
@@ -126,7 +119,7 @@ def main():
 
     if not new_items:
         print("新着案件はありませんでした")
-        save_seen(seen)  # LOOKBACK_DAYSの範囲でseenを更新しておく
+        save_seen(seen)
         return
 
     for b in new_items:
@@ -138,7 +131,7 @@ def main():
             print("通知送信:", b.get("ProjectName"))
         except Exception as e:
             print("通知送信に失敗:", e)
-        time.sleep(1)  # 連続送信の間隔をあける
+        time.sleep(1)
 
     save_seen(seen)
     print(f"{len(new_items)} 件の新着案件を通知しました")
