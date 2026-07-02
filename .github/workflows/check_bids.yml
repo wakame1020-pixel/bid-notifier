@@ -3,7 +3,7 @@ name: 入札情報チェック
 on:
   schedule:
     # UTC基準。0 */3 * * * = 日本時間で3時間ごと（9,12,15,18,21,0,3,6時ごろ）
-    - cron: "0 */3 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch: {}   # Actionsタブから手動実行もできるようにする
 
 permissions:
