@@ -2,7 +2,7 @@ name: 入札情報チェック
 
 on:
   schedule:
-    # UTC基準。0 */3 * * * = 日本時間で3時間ごと（9,12,15,18,21,0,3,6時ごろ）
+    # UTC基準。0 0 * * * = 日本時間 朝9時ごろ、1日1回
     - cron: "0 0 * * *"
   workflow_dispatch: {}   # Actionsタブから手動実行もできるようにする
 
@@ -25,16 +25,12 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run check
-        env:
-          SMTP_USER: ${{ secrets.SMTP_USER }}
-          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-          NOTIFY_TO: ${{ secrets.NOTIFY_TO }}
         run: python check_bids.py
 
-      - name: Commit updated seen_ids.json
+      - name: Commit updated data files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add seen_ids.json
-          git diff --staged --quiet || git commit -m "update seen ids [skip ci]"
+          git add seen_ids.json bids_data.json
+          git diff --staged --quiet || git commit -m "update data [skip ci]"
           git push
