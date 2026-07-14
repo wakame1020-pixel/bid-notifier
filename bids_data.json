@@ -1,5 +1,95 @@
 [
   {
+    "key": "eWFtYW5hc2hpL290c3VraV9jaXR5LzIwMjYvMjAyNjA3MTNfMDAwMjIK",
+    "projectName": "初狩保育所等建築工事",
+    "orgName": "山梨県大月市",
+    "prefecture": "山梨県",
+    "city": "大月市",
+    "issueDate": "2026-07-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.otsuki.yamanashi.jp/shisei/nyusatsu/files/r8ippan02koukoku2.pdf"
+  },
+  {
+    "key": "aWJhcmFraS9rZW5rZW4vMjAyNi8yMDI2MDcxM18wMDc3OAo=",
+    "projectName": "画像情報棟防水改修工事",
+    "orgName": "国立研究開発法人建築研究所",
+    "prefecture": "茨城県",
+    "city": "つくば市",
+    "issueDate": "2026-07-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.kenken.go.jp/japanese/information/information/bidding/hachuu/20260713/ippan/13%2026-0001/26-0001.pdf"
+  },
+  {
+    "key": "aGlyb3NoaW1hL2hpZ2FzaGloaXJvc2hpbWFzaGkvMjAyNi8yMDI2MDcxM18wMzc1NAo=",
+    "projectName": "2号7-108-127原西部集会所改修工事(PDFファイル:96.1KB)",
+    "orgName": "広島県東広島市",
+    "prefecture": "広島県",
+    "city": "東広島市",
+    "issueDate": "2026-07-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-127_kokoku.pdf"
+  },
+  {
+    "key": "aGlyb3NoaW1hL2FraXRha2F0YV9jaXR5LzIwMjYvMjAyNjA3MTNfMDAyMjUK",
+    "projectName": "【公告】安芸高田市役所本庁第一庁舎改修工事",
+    "orgName": "広島県安芸高田市",
+    "prefecture": "広島県",
+    "city": "安芸高田市",
+    "issueDate": "2026-07-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.akitakata.jp/akitakata-media/filer_public/0b/57/0b57ccec-f088-4f06-a5e8-0677334fcea2/koukoku-bun-aki-takadashi-yakusho-honchou-daiichi-chousha-kaishuukouji.pdf"
+  },
+  {
+    "key": "aGlyb3NoaW1hL2FraXRha2F0YV9jaXR5LzIwMjYvMjAyNjA3MTNfMDAyMjQK",
+    "projectName": "【公告】旧小田東保育所解体工事",
+    "orgName": "広島県安芸高田市",
+    "prefecture": "広島県",
+    "city": "安芸高田市",
+    "issueDate": "2026-07-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.akitakata.jp/akitakata-media/filer_public/d7/27/d7275853-6d3c-41ee-a04d-0da16d2a6906/koukoku-bun-kyuu-oda-higashi-hoikusho-kaitai-kouji.pdf"
+  },
+  {
+    "key": "aGlyb3NoaW1hL2FraXRha2F0YV9jaXR5LzIwMjYvMjAyNjA3MTNfMDAyMjMK",
+    "projectName": "【公告】八千代フォルテ大ホール空調改修工事",
+    "orgName": "広島県安芸高田市",
+    "prefecture": "広島県",
+    "city": "安芸高田市",
+    "issueDate": "2026-07-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.akitakata.jp/akitakata-media/filer_public/c3/aa/c3aa8995-f184-4726-8c02-175eda94313a/koukoku-bun-yachiyo-forute-dai-ho-ru-kuuchou-kaishuukouji.pdf"
+  },
+  {
+    "key": "ZnVrdXNoaW1hL21pbmFtaXNvbWFfY2l0eS8yMDI2LzIwMjYwNzEzXzAwMDI1Cg==",
+    "projectName": "2026000603南相馬市新庁舎建設電気設備工事",
+    "orgName": "福島県南相馬氏",
+    "prefecture": "福島県",
+    "city": "南相馬氏",
+    "issueDate": "2026-07-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.minamisoma.lg.jp/material/files/group/4/koukoku_112_603.pdf"
+  },
+  {
+    "key": "ZnVrdXNoaW1hL21pbmFtaXNvbWFfY2l0eS8yMDI2LzIwMjYwNzEzXzAwMDI0Cg==",
+    "projectName": "2026000602南相馬市新庁舎建設建築主体工事",
+    "orgName": "福島県南相馬氏",
+    "prefecture": "福島県",
+    "city": "南相馬氏",
+    "issueDate": "2026-07-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.minamisoma.lg.jp/material/files/group/4/koukoku_111_602.pdf"
+  },
+  {
+    "key": "ZnVrdXNoaW1hL21pbmFtaXNvbWFfY2l0eS8yMDI2LzIwMjYwNzEzXzAwMDIzCg==",
+    "projectName": "2026000576日の出町団地（東）解体工事",
+    "orgName": "福島県南相馬氏",
+    "prefecture": "福島県",
+    "city": "南相馬氏",
+    "issueDate": "2026-07-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.minamisoma.lg.jp/material/files/group/4/koukoku_110.pdf"
+  },
+  {
     "key": "eWFtYW5hc2hpL290c3VraV9jaXR5LzIwMjYvMjAyNjA3MTBfMDAwMjEK",
     "projectName": "初狩保育所等建築工事",
     "orgName": "山梨県大月市",
@@ -68,6 +158,16 @@
     "issueDate": "2026-07-10T00:00:00+09:00",
     "deadline": "",
     "url": "https://www.city.mihara.hiroshima.jp/uploaded/attachment/164853.pdf"
+  },
+  {
+    "key": "bmFnYW5vL2Vudl9jaHVidV9zaGluZXRzdS8yMDI2LzIwMjYwNzEwXzAwMjU3Cg==",
+    "projectName": "令和８年度妙高戸隠連山国立公園妙高高原ビジターセンターエントランス改修工事（再度公告）",
+    "orgName": "環境省信越自然環境事務所",
+    "prefecture": "長野県",
+    "city": "長野市",
+    "issueDate": "2026-07-10T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://chubu.env.go.jp/shinetsu/content/000415182.pdf"
   },
   {
     "key": "aGlyb3NoaW1hL2hhdHN1a2FpY2hpX2NpdHkvMjAyNi8yMDI2MDcwOV8wMDQ4MAo=",
