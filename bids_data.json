@@ -1,5 +1,105 @@
 [
   {
+    "key": "dG9rdXNoaW1hL3lvc2hpbm9nYXdhX2NpdHkvMjAyNi8yMDI2MDcxNF8wMDA0Nwo=",
+    "projectName": "令和８年度 川島・学島小学校トイレ洋式化改修工事【一般競争入札】",
+    "orgName": "徳島県吉野川市",
+    "prefecture": "徳島県",
+    "city": "吉野川市",
+    "issueDate": "2026-07-14T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.yoshinogawa.lg.jp/docs/2026071300069/file_contents/koukoku.pdf"
+  },
+  {
+    "key": "bmFnYW5vL3VlZGFfY2l0eS8yMDI2LzIwMjYwNzE0XzAyNDQzCg==",
+    "projectName": "3 保育所施設整備事業 城下保育園長寿命化工事",
+    "orgName": "長野県上田市",
+    "prefecture": "長野県",
+    "city": "上田市",
+    "issueDate": "2026-07-14T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/83727.pdf"
+  },
+  {
+    "key": "bmFnYW5vL2luYV9jaXR5LzIwMjYvMjAyNjA3MTRfMDE5MTYK",
+    "projectName": "令和7年度 手良小学校 給食調理場改修 建築工事【建築一式工事Ａ級（市内本店）（支店・営業所の本店扱い含む）（一抜け方式1番）】",
+    "orgName": "長野県伊那市",
+    "prefecture": "長野県",
+    "city": "伊那市",
+    "issueDate": "2026-07-14T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/080714_1_koukoku.files/1_1_koukoku_terasyo_kyuusyoku_kentiku.pdf"
+  },
+  {
+    "key": "bWl5YWdpL3NoaW9nYW1hX2NpdHkvMjAyNi8yMDI2MDcxNF8wMDY5MQo=",
+    "projectName": "令８−依・官振・補 伊保石公園市民の森記念館トイレ等改修工事",
+    "orgName": "宮城県塩竃市",
+    "prefecture": "宮城県",
+    "city": "塩竃市",
+    "issueDate": "2026-07-14T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.shiogama.miyagi.jp/uploaded/life/57496_145889_misc.pdf"
+  },
+  {
+    "key": "bWl5YWdpL3NoaW9nYW1hX2NpdHkvMjAyNi8yMDI2MDcxNF8wMDY4OAo=",
+    "projectName": "令８−依・学環・交 小中学校トイレ改修工事（第三小学校・玉川中学校）",
+    "orgName": "宮城県塩竃市",
+    "prefecture": "宮城県",
+    "city": "塩竃市",
+    "issueDate": "2026-07-14T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.shiogama.miyagi.jp/uploaded/life/57522_145961_misc.pdf"
+  },
+  {
+    "key": "a2FuYWdhd2EvenVzaGlfY2l0eS8yMDI2LzIwMjYwNzE0XzAwMzI5Cg==",
+    "projectName": "逗子文化プラザホール中央監視装置更新工事",
+    "orgName": "神奈川県逗子市",
+    "prefecture": "神奈川県",
+    "city": "逗子市",
+    "issueDate": "2026-07-14T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_bunpuratyuuoukannsisoutikousin.pdf"
+  },
+  {
+    "key": "a2FuYWdhd2EvenVzaGlfY2l0eS8yMDI2LzIwMjYwNzE0XzAwMzI4Cg==",
+    "projectName": "令和8年度 逗子マリーナ歩道舗装補修工事",
+    "orgName": "神奈川県逗子市",
+    "prefecture": "神奈川県",
+    "city": "逗子市",
+    "issueDate": "2026-07-14T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_zusimari-nahodouhosyu.pdf"
+  },
+  {
+    "key": "a2FuYWdhd2EvenVzaGlfY2l0eS8yMDI2LzIwMjYwNzE0XzAwMzI3Cg==",
+    "projectName": "令和8年度逗子第5分区雨水渠整備工事",
+    "orgName": "神奈川県逗子市",
+    "prefecture": "神奈川県",
+    "city": "逗子市",
+    "issueDate": "2026-07-14T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_zusidai5usuikyoseibi.pdf"
+  },
+  {
+    "key": "Z292Ny9qZWVkX3NoaWJ1X2h5b2dvLzIwMjYvMjAyNjA3MTRfMDAxNjcK",
+    "projectName": "兵庫職業能力開発促進センター電気設備実習場雨漏り改修工事 (PDF 228 KB)",
+    "orgName": "独立行政法人高齢・障害・求職者雇用支援機構兵庫支部",
+    "prefecture": "兵庫県",
+    "city": "尼崎市",
+    "issueDate": "2026-07-14T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.jeed.go.jp/location/shibu/hyogo/ledngs000000ccan-att/aj91gk0000001ntg.pdf"
+  },
+  {
+    "key": "YW9tb3JpL3NoaWNoaW5vaGVfdG93bi8yMDI2LzIwMjYwNzE0XzAwMDczCg==",
+    "projectName": "町道北口・牧場線舗装補修工事",
+    "orgName": "青森県七戸町",
+    "prefecture": "青森県",
+    "city": "七戸町",
+    "issueDate": "2026-07-14T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.town.shichinohe.lg.jp/jigyo/1e758b9a15d4ff52a2b7dc261c5e506f_2.pdf"
+  },
+  {
     "key": "eWFtYW5hc2hpL290c3VraV9jaXR5LzIwMjYvMjAyNjA3MTNfMDAwMjIK",
     "projectName": "初狩保育所等建築工事",
     "orgName": "山梨県大月市",
@@ -88,6 +188,36 @@
     "issueDate": "2026-07-13T00:00:00+09:00",
     "deadline": "",
     "url": "https://www.city.minamisoma.lg.jp/material/files/group/4/koukoku_110.pdf"
+  },
+  {
+    "key": "c2FpdGFtYS9mdWppbWlfY2l0eS8yMDI2LzIwMjYwNzEzXzAwODI2Cg==",
+    "projectName": "富士見市中央防災センター建設工事",
+    "orgName": "埼玉県富士見市",
+    "prefecture": "埼玉県",
+    "city": "富士見市",
+    "issueDate": "2026-07-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.fujimi.saitama.jp/60jigyo/17nyuusatsu/2013-0404-1602-175/2013nyusatu/R8ippankyousoukokuji.files/08_kokuji0713.pdf"
+  },
+  {
+    "key": "b2tpbmF3YS9vZ2ltaV92aWxsYWdlLzIwMjYvMjAyNjA3MTNfMDAwMDgK",
+    "projectName": "一般競争入札（条件付き）の実施について（大工又地区畑地かんがい施設工事（2工区））",
+    "orgName": "沖縄県大宜味村",
+    "prefecture": "沖縄県",
+    "city": "大宜味村",
+    "issueDate": "2026-07-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.vill.ogimi.okinawa.jp/material/files/group/1/28-1_koukoku28.pdf"
+  },
+  {
+    "key": "bmFnYW5vL3RhdHN1bm9fdG93bi8yMDI2LzIwMjYwNzEzXzAwNTk1Cg==",
+    "projectName": "令和8年度 中央保育園外壁塗装改修工事（令和8年7月13日公告）",
+    "orgName": "長野県辰野町",
+    "prefecture": "長野県",
+    "city": "辰野町",
+    "issueDate": "2026-07-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku704.pdf"
   },
   {
     "key": "eWFtYW5hc2hpL290c3VraV9jaXR5LzIwMjYvMjAyNjA3MTBfMDAwMjEK",
