@@ -1,5 +1,126 @@
 [
   {
+    "key": "eWFtYWd1Y2hpL3lhbWFndWNoaV9yb3Vkb3VreW9rdS8yMDI2LzIwMjYwODAzXzAwMjAxCg==",
+    "projectName": "2026年8月3日 ハローワークプラザ下関移転 OAフロア納入・設置及びタイルカーペット敷設工事",
+    "orgName": "厚生労働省山口労働局",
+    "prefecture": "山口県",
+    "city": "山口市",
+    "issueDate": "2026-08-03T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://jsite.mhlw.go.jp/yamaguchi-roudoukyoku/content/contents/002757978.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "eWFtYWd1Y2hpL3lhbWFndWNoaV9yb3Vkb3VreW9rdS8yMDI2LzIwMjYwODAzXzAwMjAwCg==",
+    "projectName": "2026年8月3日 ハローワークプラザ下関移転 執務室周りLGS、ガラス壁他工事",
+    "orgName": "厚生労働省山口労働局",
+    "prefecture": "山口県",
+    "city": "山口市",
+    "issueDate": "2026-08-03T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://jsite.mhlw.go.jp/yamaguchi-roudoukyoku/content/contents/002757968.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "c2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MDNfNzY4NjAK",
+    "projectName": "令和７年度（繰越）屋久島世界遺産センター展示改修工事【再度公告】",
+    "orgName": "環境省",
+    "prefecture": "熊本県",
+    "city": "",
+    "issueDate": "2026-08-03T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101",
+    "category": "内装工事"
+  },
+  {
+    "key": "bWl5YWdpL2t1cmloYXJhX2NpdHkvMjAyNi8yMDI2MDgwM18wMDk2OAo=",
+    "projectName": "【入札公告】栗原市役所本庁舎１階西側改修工事（PDF：214KB）",
+    "orgName": "宮城県栗原市",
+    "prefecture": "宮城県",
+    "city": "栗原市",
+    "issueDate": "2026-08-03T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.kuriharacity.jp/w004/030/010/200/2026koukou/0803sou/0803koukoku2sougou.pdf?7311419",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z292MTMvbW9mX2thbnRvLzIwMjYvMjAyNjA4MDNfMDA3MDcK",
+    "projectName": "(26)津田沼住宅ほか共用部照明器具改修工事",
+    "orgName": "財務省関東財務局",
+    "prefecture": "埼玉県",
+    "city": "さいたま市",
+    "issueDate": "2026-08-03T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://lfb.mof.go.jp/kantou/procurement/20260803tsudanumahokaled.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z292L2Vudl9reXVzaHUvMjAyNi8yMDI2MDgwM18wMDY3Mgo=",
+    "projectName": "令和７年度（繰越）屋久島世界遺産センター展示改修工事【再度公告】",
+    "orgName": "環境省九州地方環境事務所",
+    "prefecture": "熊本県",
+    "city": "熊本市",
+    "issueDate": "2026-08-03T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://kyushu.env.go.jp/procure/procure_00435.html",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z2lmdS9vZ2FraV9jaXR5LzIwMjYvMjAyNjA4MDNfMDA3MTMK",
+    "projectName": "2）契約第272号 青年の家 本館棟ほか外壁改修（建築）工事",
+    "orgName": "岐阜県大垣市",
+    "prefecture": "岐阜県",
+    "city": "大垣市",
+    "issueDate": "2026-08-03T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ogaki.lg.jp/cmsfiles/contents/0000070/70710/272gou_shiyoushotou.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z2lmdS9vZ2FraV9jaXR5LzIwMjYvMjAyNjA4MDNfMDA3MTIK",
+    "projectName": "1) 契約第240号 （補）一之瀬住宅A棟 金属屋根防水改修工事",
+    "orgName": "岐阜県大垣市",
+    "prefecture": "岐阜県",
+    "city": "大垣市",
+    "issueDate": "2026-08-03T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ogaki.lg.jp/cmsfiles/contents/0000070/70710/240gou_shiyoushotou.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z2lmdS9vZ2FraV9jaXR5LzIwMjYvMjAyNjA4MDNfMDA3MTEK",
+    "projectName": "2）契約第261号 （補）和合団地F棟 外壁・屋上防水改修工事",
+    "orgName": "岐阜県大垣市",
+    "prefecture": "岐阜県",
+    "city": "大垣市",
+    "issueDate": "2026-08-03T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ogaki.lg.jp/cmsfiles/contents/0000070/70710/261gou_shiyoushotou.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z2lmdS9vZ2FraV9jaXR5LzIwMjYvMjAyNjA4MDNfMDA3MTAK",
+    "projectName": "1) 契約第255号 公設地方卸売市場 卸売場棟北屋上防水改修工事",
+    "orgName": "岐阜県大垣市",
+    "prefecture": "岐阜県",
+    "city": "大垣市",
+    "issueDate": "2026-08-03T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ogaki.lg.jp/cmsfiles/contents/0000070/70710/255gou_shiyoushotou.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "dG9reW8vc2V0YWdheWFfY2l0eS8yMDI2LzIwMjYwODAzXzAwMDQ4Cg==",
+    "projectName": "個⼈住⺠税及び軽⾃動⾞税課税業務委託に係るプロポーザルの募集について",
+    "orgName": "東京都世田谷区",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "issueDate": "2026-08-03T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.setagaya.lg.jp/documents/34489/01_1.pdf",
+    "category": "内装修繕役務"
+  },
+  {
     "key": "eWFtYW5hc2hpL3lhbWFuYXNoaV9wcmVmLzIwMjYvMjAyNjA3MzFfMDA4NzcK",
     "projectName": "アイメッセ山梨吸音マット修繕工事に係る一般競争入札公告",
     "orgName": "山梨県",
