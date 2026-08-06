@@ -1,5 +1,181 @@
 [
   {
+    "key": "eWFtYWdhdGEvbXVyYXlhbWFfY2l0eS8yMDI2LzIwMjYwODA1XzAwMTMyCg==",
+    "projectName": "葉山学園改修（建築）工事",
+    "orgName": "山形県村山市",
+    "prefecture": "山形県",
+    "city": "村山市",
+    "issueDate": "2026-08-05T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.murayama.lg.jp/jigyosha/nyuusatsu/zyoukentuki-koukoku.files/08-0804-2-2.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aXNoaWthd2EvbmFuYW9fY2l0eS8yMDI2LzIwMjYwODA1XzAwMjc5Cg==",
+    "projectName": "令和8年度能登島分遣所改修工事（機械設備）",
+    "orgName": "石川県七尾市",
+    "prefecture": "石川県",
+    "city": "七尾市",
+    "issueDate": "2026-08-05T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/29_koukoku20260805.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aXNoaWthd2EvbmFuYW9fY2l0eS8yMDI2LzIwMjYwODA1XzAwMjc4Cg==",
+    "projectName": "令和8年度崎山地区コミュニティセンター移転改修工事（機械設備）",
+    "orgName": "石川県七尾市",
+    "prefecture": "石川県",
+    "city": "七尾市",
+    "issueDate": "2026-08-05T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/28_koukoku20260805.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aXNoaWthd2EvbmFuYW9fY2l0eS8yMDI2LzIwMjYwODA1XzAwMjc1Cg==",
+    "projectName": "令和8年度和倉消防署改築工事（解体）",
+    "orgName": "石川県七尾市",
+    "prefecture": "石川県",
+    "city": "七尾市",
+    "issueDate": "2026-08-05T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/25_koukoku20260805.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aXNoaWthd2EvbmFuYW9fY2l0eS8yMDI2LzIwMjYwODA1XzAwMjc0Cg==",
+    "projectName": "ごみ固形燃料化施設解体工事",
+    "orgName": "石川県七尾市",
+    "prefecture": "石川県",
+    "city": "七尾市",
+    "issueDate": "2026-08-05T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/24_koukoku20260805.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aXNoaWthd2EvbmFuYW9fY2l0eS8yMDI2LzIwMjYwODA1XzAwMjczCg==",
+    "projectName": "令和8年度和倉温泉運動公園多目的グラウンドシェルター屋根葺替工事",
+    "orgName": "石川県七尾市",
+    "prefecture": "石川県",
+    "city": "七尾市",
+    "issueDate": "2026-08-05T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/23_koukoku20260805.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aXNoaWthd2EvbmFuYW9fY2l0eS8yMDI2LzIwMjYwODA1XzAwMjcyCg==",
+    "projectName": "令和8年度ひょっこり温泉島の湯サウナ室改修工事",
+    "orgName": "石川県七尾市",
+    "prefecture": "石川県",
+    "city": "七尾市",
+    "issueDate": "2026-08-05T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/22_koukoku20260805.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aXNoaWthd2EvbmFuYW9fY2l0eS8yMDI2LzIwMjYwODA1XzAwMjcxCg==",
+    "projectName": "令和8年度中島地区コミュニティセンター西岸分館体育館災害復旧工事",
+    "orgName": "石川県七尾市",
+    "prefecture": "石川県",
+    "city": "七尾市",
+    "issueDate": "2026-08-05T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/21_koukoku20260805.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aXNoaWthd2EvbmFuYW9fY2l0eS8yMDI2LzIwMjYwODA1XzAwMjcwCg==",
+    "projectName": "令和8年度能登島分遣所改修工事（建築）",
+    "orgName": "石川県七尾市",
+    "prefecture": "石川県",
+    "city": "七尾市",
+    "issueDate": "2026-08-05T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/20_koukoku20260805.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aXNoaWthd2EvbmFuYW9fY2l0eS8yMDI2LzIwMjYwODA1XzAwMjY5Cg==",
+    "projectName": "令和8年度崎山地区コミュニティセンター移転改修工事（建築）",
+    "orgName": "石川県七尾市",
+    "prefecture": "石川県",
+    "city": "七尾市",
+    "issueDate": "2026-08-05T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/nyusatsu/documents/19_koukoku20260805.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aGlyb3NoaW1hL21paGFyYV9jaXR5LzIwMjYvMjAyNjA4MDVfMDM4NTcK",
+    "projectName": "本郷小学校屋内運動場長寿命化改修工事（建築主体工事）",
+    "orgName": "広島県三原市",
+    "prefecture": "広島県",
+    "city": "三原市",
+    "issueDate": "2026-08-05T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.mihara.hiroshima.jp/uploaded/attachment/165645.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z292Mi90Yl9tbGl0X3RvaG9rdS8yMDI2LzIwMjYwODA1XzAwMjYyCg==",
+    "projectName": "岩手運輸支局外壁改修工事",
+    "orgName": "国土交通省東北運輸局",
+    "prefecture": "宮城県",
+    "city": "仙台市",
+    "issueDate": "2026-08-05T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000378619.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z2lmdS9lbmFfY2l0eS8yMDI2LzIwMjYwODA1XzAwOTQzCg==",
+    "projectName": "契農林第16号 県単林道事業 東木の実2号橋橋梁修繕工事 (圧縮ファイル: 4.3MB)",
+    "orgName": "岐阜県恵那市",
+    "prefecture": "岐阜県",
+    "city": "恵那市",
+    "issueDate": "2026-08-05T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ena.lg.jp/material/files/group/3/20260805nourinn16.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "YW9tb3JpL2dvc2hvZ2F3YXJhX2NpdHkvMjAyNi8yMDI2MDgwNV8wMDQ4OAo=",
+    "projectName": "工業用水道3号井戸増設工事",
+    "orgName": "青森県五所川原市",
+    "prefecture": "青森県",
+    "city": "五所川原市",
+    "issueDate": "2026-08-05T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k029.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "YW9tb3JpL2dvc2hvZ2F3YXJhX2NpdHkvMjAyNi8yMDI2MDgwNV8wMDQ4Nwo=",
+    "projectName": "湊・寺町線舗装５工区工事",
+    "orgName": "青森県五所川原市",
+    "prefecture": "青森県",
+    "city": "五所川原市",
+    "issueDate": "2026-08-05T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k030.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "YW9tb3JpL2dvc2hvZ2F3YXJhX2NpdHkvMjAyNi8yMDI2MDgwNV8wMDQ4Ngo=",
+    "projectName": "広田・尻無線舗装１工区工事",
+    "orgName": "青森県五所川原市",
+    "prefecture": "青森県",
+    "city": "五所川原市",
+    "issueDate": "2026-08-05T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k031.pdf",
+    "category": "内装工事"
+  },
+  {
     "key": "dG9rdXNoaW1hL2FuYW5zaGkvMjAyNi8yMDI2MDgwNF8wMTIwNAo=",
     "projectName": "大野小学校屋内運動場空調設置工事のうち管工事",
     "orgName": "徳島県阿南市",
@@ -107,6 +283,17 @@
     "issueDate": "2026-08-04T00:00:00+09:00",
     "deadline": "",
     "url": "https://lfb.mof.go.jp/kantou/procurement/ikejiri2_gaiheki_kanri20260804.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aGlyb3NoaW1hL21paGFyYV9jaXR5LzIwMjYvMjAyNjA4MDRfMDM4NTgK",
+    "projectName": "三原市児童館空調設備改修工事",
+    "orgName": "広島県三原市",
+    "prefecture": "広島県",
+    "city": "三原市",
+    "issueDate": "2026-08-04T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.mihara.hiroshima.jp/uploaded/attachment/165648.pdf",
     "category": "内装工事"
   },
   {
