@@ -1,5 +1,93 @@
 [
   {
+    "key": "eWFtYW5hc2hpL3lhbWFuYXNoaV9wcmVmLzIwMjYvMjAyNjA4MjVfMDA5MDMK",
+    "projectName": "アイメッセ山梨吸音マット修繕工事に係る一般競争入札公告（再入札）",
+    "orgName": "山梨県",
+    "prefecture": "山梨県",
+    "city": "",
+    "issueDate": "2026-08-25T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.pref.yamanashi.jp/documents/127372/koukoku.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "dG9rdXNoaW1hL2FuYW5zaGkvMjAyNi8yMDI2MDgyNV8wMTIxNwo=",
+    "projectName": "阿南市防犯灯新設工事",
+    "orgName": "徳島県阿南市",
+    "prefecture": "徳島県",
+    "city": "阿南市",
+    "issueDate": "2026-08-25T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.anan.tokushima.jp/docs/2026082400048/file_contents/20260825-2.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "c2VhcmNoL3BfcG9ydGFsLzIwMjYvMDgvMjAyNjA4MjVfNzc5MjEK",
+    "projectName": "大阪税関本関内装及び設備等改修工事",
+    "orgName": "財務省",
+    "prefecture": "大阪府",
+    "city": "",
+    "issueDate": "2026-08-25T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101",
+    "category": "内装工事"
+  },
+  {
+    "key": "a2FuYWdhd2EvenVzaGlfY2l0eS8yMDI2LzIwMjYwODI1XzAwMzQ5Cg==",
+    "projectName": "久木中学校屋内運動場外壁改修工事",
+    "orgName": "神奈川県逗子市",
+    "prefecture": "神奈川県",
+    "city": "逗子市",
+    "issueDate": "2026-08-25T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_hisatyuunndouzyogaihekikaisyu.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aGlyb3NoaW1hL21paGFyYV9jaXR5LzIwMjYvMjAyNjA4MjVfMDM4NjkK",
+    "projectName": "中央公民館長寿命化改修工事（その１）ＥＶ設備工事",
+    "orgName": "広島県三原市",
+    "prefecture": "広島県",
+    "city": "三原市",
+    "issueDate": "2026-08-25T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.mihara.hiroshima.jp/uploaded/attachment/165903.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aGlyb3NoaW1hL21paGFyYV9jaXR5LzIwMjYvMjAyNjA4MjVfMDM4NjcK",
+    "projectName": "市営宮浦北住宅２号棟外壁等改修工事",
+    "orgName": "広島県三原市",
+    "prefecture": "広島県",
+    "city": "三原市",
+    "issueDate": "2026-08-25T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.mihara.hiroshima.jp/uploaded/attachment/165900.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aGlyb3NoaW1hL2hpcm9zaGltYV9hYy8yMDI2LzIwMjYwODI1XzAwMTYyCg==",
+    "projectName": "広島大学（東広島）国際交流会館Ａ等改修工事",
+    "orgName": "国立大学法人広島大学",
+    "prefecture": "広島県",
+    "city": "東広島市",
+    "issueDate": "2026-08-25T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://sisetuweb1.mext.go.jp/mdbskn/frontsite/public/construct/detail.asp?kanribangou=08033620260800005",
+    "category": "内装工事"
+  },
+  {
+    "key": "aGlyb3NoaW1hL21paGFyYV9jaXR5LzIwMjYvMjAyNjA4MjVfMDM4ODAK",
+    "projectName": "沼田東小学校屋内運動場長寿命化改修設計業務委託",
+    "orgName": "広島県三原市",
+    "prefecture": "広島県",
+    "city": "三原市",
+    "issueDate": "2026-08-25T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.mihara.hiroshima.jp/uploaded/attachment/165935.pdf",
+    "category": "内装修繕役務"
+  },
+  {
     "key": "dG9jaGlnaS9ub2dpX3Rvd24vMjAyNi8yMDI2MDgyNF8wMDA1Mgo=",
     "projectName": "健康センター解体工事",
     "orgName": "栃木県野木町",
