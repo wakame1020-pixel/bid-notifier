@@ -1,5 +1,104 @@
 [
   {
+    "key": "bmFnYW5vL2thcnVpemF3YV90b3duLzIwMjYvMjAyNjA4MjZfMDAwMTkK",
+    "projectName": "令和8年度 町単 雲場池公衆トイレ建築他工事",
+    "orgName": "長野県軽井沢町",
+    "prefecture": "長野県",
+    "city": "軽井沢町",
+    "issueDate": "2026-08-26T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.town.karuizawa.lg.jp/uploaded/attachment/10374.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "bWllL3NoaW1hX2NpdHkvMjAyNi8yMDI2MDgyNl8wMjA5MAo=",
+    "projectName": "旧大王放課後児童クラブほか1件解体工事",
+    "orgName": "三重県志摩市",
+    "prefecture": "三重県",
+    "city": "志摩市",
+    "issueDate": "2026-08-26T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.shima.mie.jp/material/files/group/7/0301uchiwakeshotoR080909.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "a29jaGkva29uYW5fY2l0eS8yMDI2LzIwMjYwODI2XzAwOTg3Cg==",
+    "projectName": "(生第08098号)香我美市民館非構造部材耐震化工事（電気設備）【8月26日公告】",
+    "orgName": "高知県香南市",
+    "prefecture": "高知県",
+    "city": "香南市",
+    "issueDate": "2026-08-26T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.kochi-konan.lg.jp/material/files/group/35/nyusatsukoukoku_shoudai08098.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "a2FuYWdhd2EveW51X2FjLzIwMjYvMjAyNjA4MjZfMDU4NTAK",
+    "projectName": "横浜国立大学（立野）附属横浜小学校体育館改修工事（再公告）",
+    "orgName": "国立大学法人横浜国立大学",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "issueDate": "2026-08-26T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://shisetsu.ynu.ac.jp/gakugai/shisetsu/5kouji/koukoku/zengakuwebusite/ippankyoso/checkPermission.php?f=9yaeKAy%2BZsKbhXe%2BA06flm53cDFtYUFqc3dJQ0lUYndvTlgwZ2c9PQ%3D%3D",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z2lmdS9lbmFfY2l0eS8yMDI2LzIwMjYwODI2XzAwOTQ5Cg==",
+    "projectName": "契水工第21号 長島町12号線（上本郷地区）老朽管更新工事 (圧縮ファイル: 3.3MB)",
+    "orgName": "岐阜県恵那市",
+    "prefecture": "岐阜県",
+    "city": "恵那市",
+    "issueDate": "2026-08-26T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ena.lg.jp/material/files/group/3/20260826suikou21.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z2lmdS9lbmFfY2l0eS8yMDI2LzIwMjYwODI2XzAwOTQ4Cg==",
+    "projectName": "契建設第112号 小杉川他2河川浚渫工事 (圧縮ファイル: 4.6MB)",
+    "orgName": "岐阜県恵那市",
+    "prefecture": "岐阜県",
+    "city": "恵那市",
+    "issueDate": "2026-08-26T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ena.lg.jp/material/files/group/3/20260826kennsetsu112.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "YW9tb3JpL2dvc2hvZ2F3YXJhX2NpdHkvMjAyNi8yMDI2MDgyNl8wMDUwMwo=",
+    "projectName": "鶴ヶ岡６号線外道路整備３工区工事",
+    "orgName": "青森県五所川原市",
+    "prefecture": "青森県",
+    "city": "五所川原市",
+    "issueDate": "2026-08-26T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k034.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "YW9tb3JpL2dvc2hvZ2F3YXJhX2NpdHkvMjAyNi8yMDI2MDgyNl8wMDUwMgo=",
+    "projectName": "岩木町・飯詰線舗装１工区工事",
+    "orgName": "青森県五所川原市",
+    "prefecture": "青森県",
+    "city": "五所川原市",
+    "issueDate": "2026-08-26T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k036.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "YW9tb3JpL2dvc2hvZ2F3YXJhX2NpdHkvMjAyNi8yMDI2MDgyNl8wMDUwMQo=",
+    "projectName": "岩木町・飯詰線舗装２工区工事",
+    "orgName": "青森県五所川原市",
+    "prefecture": "青森県",
+    "city": "五所川原市",
+    "issueDate": "2026-08-26T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k035.pdf",
+    "category": "内装工事"
+  },
+  {
     "key": "eWFtYW5hc2hpL3lhbWFuYXNoaV9wcmVmLzIwMjYvMjAyNjA4MjVfMDA5MDMK",
     "projectName": "アイメッセ山梨吸音マット修繕工事に係る一般競争入札公告（再入札）",
     "orgName": "山梨県",
@@ -86,6 +185,17 @@
     "deadline": "",
     "url": "https://www.city.mihara.hiroshima.jp/uploaded/attachment/165935.pdf",
     "category": "内装修繕役務"
+  },
+  {
+    "key": "Z292Mi9rYWlob19tbGl0XzAya2Fua3UvMjAyNi8yMDI2MDgyNV8wMTI5Ngo=",
+    "projectName": "小泊岬南灯台ほか１件改良改修工事",
+    "orgName": "海上保安庁第二管区海上保安本部",
+    "prefecture": "宮城県",
+    "city": "塩釜市",
+    "issueDate": "2026-08-25T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.kaiho.mlit.go.jp/02kanku/nyusatu/00_kokoku/r8_8/20260825_kodomarimisaki/20260825_kodomari_koukoku.pdf",
+    "category": "内装工事"
   },
   {
     "key": "dG9jaGlnaS9ub2dpX3Rvd24vMjAyNi8yMDI2MDgyNF8wMDA1Mgo=",
