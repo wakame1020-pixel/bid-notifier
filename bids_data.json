@@ -187,6 +187,17 @@
     "category": "内装工事"
   },
   {
+    "key": "a2FuYWdhd2EveW51X2FjLzIwMjYvMjAyNjA4MjZfMDU4NjgK",
+    "projectName": "横浜国立大学（立野）附属横浜小学校体育館改修工事（再公告）",
+    "orgName": "国立大学法人横浜国立大学",
+    "prefecture": "神奈川県",
+    "city": "横浜市",
+    "issueDate": "2026-08-26T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://shisetsu.ynu.ac.jp/gakugai/shisetsu/5kouji/koukoku/zengakuwebusite/ippankyoso/checkPermission.php?f=tOt4VIC8N%2BISgjzd1TrnnStod3FISHgxNXhoVCs4TnU3ZXFLVVE9PQ%3D%3D",
+    "category": "内装工事"
+  },
+  {
     "key": "eWFtYW5hc2hpL3lhbWFuYXNoaV9wcmVmLzIwMjYvMjAyNjA4MjVfMDA5MDMK",
     "projectName": "アイメッセ山梨吸音マット修繕工事に係る一般競争入札公告（再入札）",
     "orgName": "山梨県",
@@ -3315,85 +3326,5 @@
     "issueDate": "2026-07-01T00:00:00+09:00",
     "deadline": "",
     "url": "https://www.city.ena.lg.jp/material/files/group/3/20260701kennsetsu51.zip"
-  },
-  {
-    "key": "eWFtYWd1Y2hpL2hpa2FyaV9jaXR5LzIwMjYvMjAyNjA2MzBfMDAzMzEK",
-    "projectName": "やまと学園建設工事（建築工事）",
-    "orgName": "山口県光市",
-    "prefecture": "山口県",
-    "city": "光市",
-    "issueDate": "2026-06-30T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.hikari.lg.jp/material/files/group/22/01koukoku_yamatogakuenkensetukouji_kentiku.pdf"
-  },
-  {
-    "key": "aGlyb3NoaW1hL2hpZ2FzaGloaXJvc2hpbWFzaGkvMjAyNi8yMDI2MDYzMF8wMzczOAo=",
-    "projectName": "2号7-108-105本庁舎玄関タイル改修工事(PDFファイル:207.1KB)",
-    "orgName": "広島県東広島市",
-    "prefecture": "広島県",
-    "city": "東広島市",
-    "issueDate": "2026-06-30T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-105_kokoku.pdf"
-  },
-  {
-    "key": "aGlyb3NoaW1hL2hpZ2FzaGloaXJvc2hpbWFzaGkvMjAyNi8yMDI2MDYzMF8wMzczNwo=",
-    "projectName": "2号7-108-104豊栄市民グラウンドダッグアウト改修工事(PDFファイル:212.3KB)",
-    "orgName": "広島県東広島市",
-    "prefecture": "広島県",
-    "city": "東広島市",
-    "issueDate": "2026-06-30T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-104_kokoku.pdf"
-  },
-  {
-    "key": "aGlyb3NoaW1hL2hpZ2FzaGloaXJvc2hpbWFzaGkvMjAyNi8yMDI2MDYzMF8wMzczNgo=",
-    "projectName": "2号7-108-103福富方面隊福富西分団格納庫新築工事その2(PDFファイル:217.7KB)",
-    "orgName": "広島県東広島市",
-    "prefecture": "広島県",
-    "city": "東広島市",
-    "issueDate": "2026-06-30T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-103_kokoku.pdf"
-  },
-  {
-    "key": "Z292NS9ub2tlbl9raWtvLzIwMjYvMjAyNjA2MzBfMDc2MjQK",
-    "projectName": "構造生物学研究棟空調ほか改修工事",
-    "orgName": "国立研究開発法人農業・食品産業技術総合研究機構",
-    "prefecture": "その他",
-    "city": "",
-    "issueDate": "2026-06-30T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.naro.go.jp/supply/files/08k008.pdf"
-  },
-  {
-    "key": "Z2lmdS9tb3Rvc3VfY2l0eS8yMDI2LzIwMjYwNjMwXzAxMTY4Cg==",
-    "projectName": "社教工第2号_R8真正体育センター屋根等改修工事(PDF形式、155.12KB)",
-    "orgName": "岐阜県本巣市",
-    "prefecture": "岐阜県",
-    "city": "本巣市",
-    "issueDate": "2026-06-30T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.motosu.lg.jp/cmsfiles/contents/0000003/3093/syakyoukou2.pdf"
-  },
-  {
-    "key": "Z2lmdS9naWZ1X2tvc2VuLzIwMjYvMjAyNjA2MzBfMDAxNjgK",
-    "projectName": "岐阜工業高専2号館東空調改修工事（Ⅱ期）（1MB）",
-    "orgName": "独立行政法人国立高等専門学校機構岐阜工業高等専門学校",
-    "prefecture": "岐阜県",
-    "city": "本巣市",
-    "issueDate": "2026-06-30T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.gifu-nct.ac.jp/uploads/2568/1_1.pdf"
-  },
-  {
-    "key": "ZnVrdW9rYS9jaGlrdXNoaW5vX2NpdHkvMjAyNi8yMDI2MDYzMF8wMDA4Ngo=",
-    "projectName": "起工第63号 筑紫野中学校管理教室棟金属建具改修工事",
-    "orgName": "福岡県筑紫野市",
-    "prefecture": "福岡県",
-    "city": "筑紫野市",
-    "issueDate": "2026-06-30T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.chikushino.fukuoka.jp/uploaded/attachment/33732.pdf"
   }
 ]
