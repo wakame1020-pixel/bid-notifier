@@ -1,5 +1,93 @@
 [
   {
+    "key": "dG9rdXNoaW1hL2FuYW5zaGkvMjAyNi8yMDI2MDkwOF8wMTIyNAo=",
+    "projectName": "那賀川分団第六班詰所除却工事",
+    "orgName": "徳島県阿南市",
+    "prefecture": "徳島県",
+    "city": "阿南市",
+    "issueDate": "2026-09-08T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.anan.tokushima.jp/docs/2026090400054/file_contents/20260908-4.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "c2VhcmNoL3BfcG9ydGFsLzIwMjYvMDkvMjAyNjA5MDhfNzg3OTgK",
+    "projectName": "外務本省北庁舎７階他付室の内装改修工事",
+    "orgName": "外務省",
+    "prefecture": "東京都",
+    "city": "",
+    "issueDate": "2026-09-08T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101",
+    "category": "内装工事"
+  },
+  {
+    "key": "b2tpbmF3YS9va2luYXdhX3ByZWYvMjAyNi8yMDI2MDkwOF8wMTY5OQo=",
+    "projectName": "万国津梁館修景池改修工事(R8)",
+    "orgName": "沖縄県",
+    "prefecture": "沖縄県",
+    "city": "",
+    "issueDate": "2026-09-08T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/381/r8.9.8_koukoku.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "bmFnYW5vL3N1emFrYV9jaXR5LzIwMjYvMjAyNjA5MDhfMDAwNjkK",
+    "projectName": "10月1日開札（一般競争）高甫保育園照明器具LED化改修工事",
+    "orgName": "長野県須坂市",
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "issueDate": "2026-09-08T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.suzaka.nagano.jp/material/files/group/4/260908koukoku119.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "bmFnYW5vL3N1emFrYV9jaXR5LzIwMjYvMjAyNjA5MDhfMDAwNjgK",
+    "projectName": "10月1日開札（一般競争）仁礼保育園照明器具LED化改修工事",
+    "orgName": "長野県須坂市",
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "issueDate": "2026-09-08T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.suzaka.nagano.jp/material/files/group/4/260908koukoku118.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "bmFnYW5vL3N1emFrYV9jaXR5LzIwMjYvMjAyNjA5MDhfMDAwNjcK",
+    "projectName": "10月1日開札（一般競争）日野保育園照明器具LED化改修工事",
+    "orgName": "長野県須坂市",
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "issueDate": "2026-09-08T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.suzaka.nagano.jp/material/files/group/4/260908koukoku117.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "a2FuYWdhd2EvenVzaGlfY2l0eS8yMDI2LzIwMjYwOTA4XzAwMzU0Cg==",
+    "projectName": "逗子市地域活動センターLED導入工事",
+    "orgName": "神奈川県逗子市",
+    "prefecture": "神奈川県",
+    "city": "逗子市",
+    "issueDate": "2026-09-08T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_tiikikatudousentaledkouzi.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "a2FuYWdhd2EvenVzaGlfY2l0eS8yMDI2LzIwMjYwOTA4XzAwMzUzCg==",
+    "projectName": "逗子市漁港振興センター裏空き地整備工事",
+    "orgName": "神奈川県逗子市",
+    "prefecture": "神奈川県",
+    "city": "逗子市",
+    "issueDate": "2026-09-08T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_gyokousinkousentauraakitiseibi.pdf",
+    "category": "内装工事"
+  },
+  {
     "key": "bWl5YWdpL2t1cmloYXJhX2NpdHkvMjAyNi8yMDI2MDkwN18wMDk4Mwo=",
     "projectName": "【入札公告】栗原市役所本庁舎１階西側改修工事（PDF：278KB）",
     "orgName": "宮城県栗原市",
@@ -3067,85 +3155,5 @@
     "issueDate": "2026-07-13T00:00:00+09:00",
     "deadline": "",
     "url": "https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku704.pdf"
-  },
-  {
-    "key": "eWFtYW5hc2hpL290c3VraV9jaXR5LzIwMjYvMjAyNjA3MTBfMDAwMjEK",
-    "projectName": "初狩保育所等建築工事",
-    "orgName": "山梨県大月市",
-    "prefecture": "山梨県",
-    "city": "大月市",
-    "issueDate": "2026-07-10T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.otsuki.yamanashi.jp/shisei/nyusatsu/files/r8ippan02koukoku.pdf"
-  },
-  {
-    "key": "c2VhcmNoL2tlaXlha3VfaGlyb3NoaW1hX2NpdHkvMjAyNi8yMDI2MDcxMF8wNDA5Mgo=",
-    "projectName": "八木児童館大規模改修工事",
-    "orgName": "広島県広島市",
-    "prefecture": "広島県",
-    "city": "広島市",
-    "issueDate": "2026-07-10T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202610016700101.pdf"
-  },
-  {
-    "key": "bmFnYW5vL2Vudl9jaHVidV9zaGluZXRzdS8yMDI2LzIwMjYwNzEwXzAwMjU2Cg==",
-    "projectName": "令和８年度妙高戸隠連山国立公園妙高高原ビジターセンターエントランス改修工事（再度公告）",
-    "orgName": "環境省信越自然環境事務所",
-    "prefecture": "長野県",
-    "city": "長野市",
-    "issueDate": "2026-07-10T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://chubu.env.go.jp/shinetsu/content/000414383.pdf"
-  },
-  {
-    "key": "bWl5YWdpL3NoaWJhdGFfdG93bi8yMDI2LzIwMjYwNzEwXzAwMDQzCg==",
-    "projectName": "公告_第R8-一般11号_令和8年度 旧槻木事務所解体工事.pdf [ 131 KB pdfファイル]",
-    "orgName": "宮城県柴田町",
-    "prefecture": "宮城県",
-    "city": "柴田町",
-    "issueDate": "2026-07-10T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.town.shibata.miyagi.jp/index.cfm/88,35632,c,html/35632/20260710-091208.pdf"
-  },
-  {
-    "key": "aXNoaWthd2EvaG9kYXRzdXNoaW1penVfdG93bi8yMDI2LzIwMjYwNzEwXzAwMDEwCg==",
-    "projectName": "【一般競争入札公告】宝達志水町古墳の湯改修工事",
-    "orgName": "石川県宝達志水町",
-    "prefecture": "石川県",
-    "city": "宝達志水町",
-    "issueDate": "2026-07-10T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.hodatsushimizu.jp/material/files/group/5/20260709.pdf"
-  },
-  {
-    "key": "aXNoaWthd2EvaG9kYXRzdXNoaW1penVfdG93bi8yMDI2LzIwMjYwNzEwXzAwMDA5Cg==",
-    "projectName": "【一般競争入札公告】宝達中学校体育館空調設置工事",
-    "orgName": "石川県宝達志水町",
-    "prefecture": "石川県",
-    "city": "宝達志水町",
-    "issueDate": "2026-07-10T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.hodatsushimizu.jp/material/files/group/5/2026070801.pdf"
-  },
-  {
-    "key": "aGlyb3NoaW1hL21paGFyYV9jaXR5LzIwMjYvMjAyNjA3MTBfMDM4MzEK",
-    "projectName": "本郷小学校屋内運動場長寿命化改修工事（建築主体工事）",
-    "orgName": "広島県三原市",
-    "prefecture": "広島県",
-    "city": "三原市",
-    "issueDate": "2026-07-10T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.mihara.hiroshima.jp/uploaded/attachment/164853.pdf"
-  },
-  {
-    "key": "bmFnYW5vL2Vudl9jaHVidV9zaGluZXRzdS8yMDI2LzIwMjYwNzEwXzAwMjU3Cg==",
-    "projectName": "令和８年度妙高戸隠連山国立公園妙高高原ビジターセンターエントランス改修工事（再度公告）",
-    "orgName": "環境省信越自然環境事務所",
-    "prefecture": "長野県",
-    "city": "長野市",
-    "issueDate": "2026-07-10T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://chubu.env.go.jp/shinetsu/content/000415182.pdf"
   }
 ]
