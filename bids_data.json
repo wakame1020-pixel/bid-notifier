@@ -1,5 +1,93 @@
 [
   {
+    "key": "c2VhcmNoL3BfcG9ydGFsLzIwMjYvMTAvMjAyNjEwMDlfODAxNjAK",
+    "projectName": "令和８年度大阪刑務所電話交換設備等改修工事",
+    "orgName": "法務省",
+    "prefecture": "大阪府",
+    "city": "",
+    "issueDate": "2026-10-09T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101",
+    "category": "内装工事"
+  },
+  {
+    "key": "bmlpZ2F0YS9hZ2Fub19jaXR5LzIwMjYvMjAyNjEwMDlfMDA2NTUK",
+    "projectName": "福支工第1号_旧白鳥ルーム解体工事",
+    "orgName": "新潟県阿賀野市",
+    "prefecture": "新潟県",
+    "city": "阿賀野市",
+    "issueDate": "2026-10-09T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.agano.niigata.jp/material/files/group/6/261009koukoku.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "bmFnYW5vL2Vudl9jaHVidV9zaGluZXRzdS8yMDI2LzIwMjYxMDA5XzAwMjY5Cg==",
+    "projectName": "令和７年度（補正繰越）上信越高原国立公園鹿沢インフォメーションセンター空調設備等改修工事",
+    "orgName": "環境省信越自然環境事務所",
+    "prefecture": "長野県",
+    "city": "長野市",
+    "issueDate": "2026-10-09T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://chubu.env.go.jp/shinetsu/content/000434617.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "bWllL2tpc29zYWtpX3Rvd24vMjAyNi8yMDI2MTAwOV8wMDA0NQo=",
+    "projectName": "令和8年度 北部公民館避難階段設置工事",
+    "orgName": "三重県木曾岬町",
+    "prefecture": "三重県",
+    "city": "木曾岬町",
+    "issueDate": "2026-10-09T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.town.kisosaki.lg.jp/cmsfiles/contents/0000003/3204/84_koukoku.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z2lmdS9taXp1aG9fY2l0eS8yMDI2LzIwMjYxMDA5XzAwNDEwCg==",
+    "projectName": "本田小学校３階教室改修工事(pdf 158KB)",
+    "orgName": "岐阜県瑞穂市",
+    "prefecture": "岐阜県",
+    "city": "瑞穂市",
+    "issueDate": "2026-10-09T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.mizuho.lg.jp/secure/15803/zuikyoukou_no53.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "ZnVrdW9rYS9tdW5ha2F0YV9jaXR5LzIwMjYvMjAyNjEwMDlfMDAwNzIK",
+    "projectName": "入札公告「市庁舎本館・西館給排水配管外改修工事」",
+    "orgName": "福岡県宗像市",
+    "prefecture": "福岡県",
+    "city": "宗像市",
+    "issueDate": "2026-10-09T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.munakata.lg.jp/kiji00310479/3_10479_18089_up_m0lsvnix.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "ZnVrdW9rYS9tdW5ha2F0YV9jaXR5LzIwMjYvMjAyNjEwMDlfMDAwNzEK",
+    "projectName": "入札公告「田熊雨水ポンプ場整備工事（建築工事）」",
+    "orgName": "福岡県宗像市",
+    "prefecture": "福岡県",
+    "city": "宗像市",
+    "issueDate": "2026-10-09T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.munakata.lg.jp/kiji00310478/3_10478_18087_up_ccibemt3.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "aG9ra2FpZG8yL3RvYmV0c3VfdG93bi8yMDI2LzIwMjYxMDA5XzAwMDE2Cg==",
+    "projectName": "当別町新庁舎建設事業業務委託公募型プロポーザルの実施について",
+    "orgName": "北海道当別町",
+    "prefecture": "北海道",
+    "city": "当別町",
+    "issueDate": "2026-10-09T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31699.pdf",
+    "category": "内装修繕役務"
+  },
+  {
     "key": "dG9rdXNoaW1hL2tvbWF0c3VzaGltYV9jaXR5LzIwMjYvMjAyNjEwMDhfMDA2NjkK",
     "projectName": "R8 旧北小松島公民館解体工事（工事番号40）",
     "orgName": "徳島県小松島市",
@@ -97,6 +185,17 @@
     "deadline": "",
     "url": "https://www.city.shiogama.miyagi.jp/uploaded/life/58977_151432_misc.pdf",
     "category": "内装修繕役務"
+  },
+  {
+    "key": "c2FpdGFtYS9mdWppbWlfY2l0eS8yMDI2LzIwMjYxMDA4XzAwODQ0Cg==",
+    "projectName": "市立諏訪第1放課後児童クラブ大規模改修工事",
+    "orgName": "埼玉県富士見市",
+    "prefecture": "埼玉県",
+    "city": "富士見市",
+    "issueDate": "2026-10-08T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.fujimi.saitama.jp/60jigyo/17nyuusatsu/2013-0404-1602-175/2013nyusatu/R8ippankyousoukokuji.files/08_kokuji1008.pdf",
+    "category": "内装工事"
   },
   {
     "key": "dG9reW8va3RyX21saXRfdG9reW8yZXovMjAyNi8yMDI2MTAwN18wMDExOQo=",
