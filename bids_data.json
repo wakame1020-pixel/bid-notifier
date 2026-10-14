@@ -1,5 +1,104 @@
 [
   {
+    "key": "c2VhcmNoL2tlaXlha3VfaGlyb3NoaW1hX2NpdHkvMjAyNi8yMDI2MTAxM18wNDc2Mgo=",
+    "projectName": "南観音南アパートほか１か所高齢者等対応住戸改善その他工事実施設計業務",
+    "orgName": "広島県広島市",
+    "prefecture": "広島県",
+    "city": "広島市",
+    "issueDate": "2026-10-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://ppi.keiyaku.city.hiroshima.lg.jp/PPI_P/DownLoad/202620042100101.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "b2theWFtYS9va2F5YW1hX3VuaXYvMjAyNi8yMDI2MTAxM18wMDI5Ngo=",
+    "projectName": "岡山大学（津島）工学部４号館３階講義室改修工事",
+    "orgName": "国立大学法人岡山大学",
+    "prefecture": "岡山県",
+    "city": "岡山市",
+    "issueDate": "2026-10-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "http://www.okayama-u.ac.jp/up_load_files/shisetu-pdf/koukoku08-19.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aG9ra2FpZG8yL3NpbnJpbmthbnJpa3lva3UvMjAyNi8yMDI2MTAxM18xMjE0Nwo=",
+    "projectName": "令和8年度空知森林管理署3条東地区宿舎14号棟及び15号棟給湯機更新工事（オープンカウンター方式による見積合わせ）",
+    "orgName": "林野庁北海道森林管理局",
+    "prefecture": "北海道",
+    "city": "札幌市",
+    "issueDate": "2026-10-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/sorati/attach/pdf/261013-1.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aGlyb3NoaW1hL21paGFyYV9jaXR5LzIwMjYvMjAyNjEwMTNfMDM5MTcK",
+    "projectName": "中央公民館長寿命化改修工事（その１）（建築主体工事）",
+    "orgName": "広島県三原市",
+    "prefecture": "広島県",
+    "city": "三原市",
+    "issueDate": "2026-10-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.mihara.hiroshima.jp/uploaded/attachment/167013.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z292Ny9uaXllX2dvLzIwMjYvMjAyNjEwMTNfMDEwOTMK",
+    "projectName": "国立赤城青少年交流の家 建具改修工事",
+    "orgName": "独立行政法人国立青少年教育振興機構",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "issueDate": "2026-10-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.niye.go.jp/wp-content/uploads/2026/10/20261013_%E8%B5%A4%E5%9F%8E%E5%BB%BA%E5%85%B701.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z292MTMvbW9mX2thbnRvLzIwMjYvMjAyNjEwMTNfMDA3MzcK",
+    "projectName": "(26)松戸第3住宅洗面所改修その他工事（3号棟）",
+    "orgName": "財務省関東財務局",
+    "prefecture": "埼玉県",
+    "city": "さいたま市",
+    "issueDate": "2026-10-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://lfb.mof.go.jp/kantou/procurement/20261013matsdo3senmen3.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "dG9reW8vc2V0YWdheWFfY2l0eS8yMDI2LzIwMjYxMDEzXzAwMDYxCg==",
+    "projectName": "「世田谷区予防接種電話対応等に係る業務委託（単価契約）」に係るプロポーザルの実施について",
+    "orgName": "東京都世田谷区",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "issueDate": "2026-10-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.setagaya.lg.jp/documents/36187/koukokubun.pdf",
+    "category": "内装修繕役務"
+  },
+  {
+    "key": "dG9reW8vc2V0YWdheWFfY2l0eS8yMDI2LzIwMjYxMDEzXzAwMDYwCg==",
+    "projectName": "ほっとスクール「希望丘」運営業務委託公募型プロポーザルの実施について",
+    "orgName": "東京都世田谷区",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "issueDate": "2026-10-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.setagaya.lg.jp/documents/36217/koukokubun.pdf",
+    "category": "内装修繕役務"
+  },
+  {
+    "key": "b2l0YS9iZXBwdV9jaXR5LzIwMjYvMjAyNjEwMTNfMDAwMjgK",
+    "projectName": "別府市美術館収蔵棚等設置委託業務 要件設定型一般競争入札",
+    "orgName": "大分県別府市",
+    "prefecture": "大分県",
+    "city": "別府市",
+    "issueDate": "2026-10-13T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.beppu.oita.jp/doc/sangyou/nyuusatu_keiyaku/itaku/syakyou1/koukoku.pdf",
+    "category": "内装修繕役務"
+  },
+  {
     "key": "c2VhcmNoL3BfcG9ydGFsLzIwMjYvMTAvMjAyNjEwMDlfODAxNjAK",
     "projectName": "令和８年度大阪刑務所電話交換設備等改修工事",
     "orgName": "法務省",
@@ -2429,38 +2528,5 @@
     "deadline": "",
     "url": "https://www.city.chiba.jp/somu/somu/somu/kojibunsyo/documents/08kk0640.pdf",
     "category": "内装修繕役務"
-  },
-  {
-    "key": "c2FpdGFtYS9rYXN1a2FiZV9jaXR5LzIwMjYvMjAyNjA4MTRfMDAyNTAK",
-    "projectName": "教育総務課：【第447号】葛飾中学校リノベーション工事に係るカーテンの購入",
-    "orgName": "埼玉県春日部市",
-    "prefecture": "埼玉県",
-    "city": "春日部市",
-    "issueDate": "2026-08-14T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/6/37890.html",
-    "category": "内装工事"
-  },
-  {
-    "key": "b2tpbmF3YS9va2luYXdhX3ByZWYvMjAyNi8yMDI2MDgxNF8wMTY3Nwo=",
-    "projectName": "防災行政用無線宮古合同庁舎中継局鉄塔改修工事",
-    "orgName": "沖縄県",
-    "prefecture": "沖縄県",
-    "city": "",
-    "issueDate": "2026-08-14T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/040/999/1ku.pdf",
-    "category": "内装工事"
-  },
-  {
-    "key": "aHlvZ28vc2hpc29fY2l0eS8yMDI2LzIwMjYwODE0XzAxOTM5Cg==",
-    "projectName": "K01 山崎西中学校長寿命化改修工事（I期）",
-    "orgName": "兵庫県宍粟市",
-    "prefecture": "兵庫県",
-    "city": "宍粟市",
-    "issueDate": "2026-08-14T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.shiso.lg.jp/material/files/group/29/260814_K01_1_yamasakinishichuuchoujumyoukakaishuu_koukokusho.pdf",
-    "category": "内装工事"
   }
 ]
