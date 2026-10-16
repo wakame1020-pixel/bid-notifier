@@ -1,5 +1,115 @@
 [
   {
+    "key": "c2VhcmNoL3BfcG9ydGFsLzIwMjYvMTAvMjAyNjEwMTVfODAzNzYK",
+    "projectName": "上戸町宿舎内装等改良改修工事",
+    "orgName": "国土交通省",
+    "prefecture": "新潟県",
+    "city": "",
+    "issueDate": "2026-10-15T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101",
+    "category": "内装工事"
+  },
+  {
+    "key": "bWllL293YXNlX2NpdHkvMjAyNi8yMDI2MTAxNV8wMDA3Mgo=",
+    "projectName": "折橋墓地機能復旧工事",
+    "orgName": "三重県尾鷲市",
+    "prefecture": "三重県",
+    "city": "尾鷲市",
+    "issueDate": "2026-10-15T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.owase.lg.jp/cmsfiles/contents/0000025/25056/01-koukoku-orihasifukkyu.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aGlyb3NoaW1hL2hpZ2FzaGloaXJvc2hpbWFzaGkvMjAyNi8yMDI2MTAxNV8wMzg1Nwo=",
+    "projectName": "総【JV】7-108-246板城西小学校校舎長寿命化改良及び増築工事(PDFファイル:350.2KB)",
+    "orgName": "広島県東広島市",
+    "prefecture": "広島県",
+    "city": "東広島市",
+    "issueDate": "2026-10-15T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-246.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aGlyb3NoaW1hL2hpZ2FzaGloaXJvc2hpbWFzaGkvMjAyNi8yMDI2MTAxNV8wMzg1NAo=",
+    "projectName": "1号7-108-242防災備蓄倉庫新築工事（電気）(PDFファイル:212.2KB)",
+    "orgName": "広島県東広島市",
+    "prefecture": "広島県",
+    "city": "東広島市",
+    "issueDate": "2026-10-15T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-242_kokoku.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aGlyb3NoaW1hL2hpZ2FzaGloaXJvc2hpbWFzaGkvMjAyNi8yMDI2MTAxNV8wMzg0OQo=",
+    "projectName": "2号7-108-237高屋中央保育所解体工事(PDFファイル:185KB)",
+    "orgName": "広島県東広島市",
+    "prefecture": "広島県",
+    "city": "東広島市",
+    "issueDate": "2026-10-15T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-237_kokoku.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aGlyb3NoaW1hL2hpZ2FzaGloaXJvc2hpbWFzaGkvMjAyNi8yMDI2MTAxNV8wMzg0OAo=",
+    "projectName": "2号7-108-236市営城山住宅解体工事(PDFファイル:184.9KB)",
+    "orgName": "広島県東広島市",
+    "prefecture": "広島県",
+    "city": "東広島市",
+    "issueDate": "2026-10-15T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-236_kokoku.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aGlyb3NoaW1hL2hpZ2FzaGloaXJvc2hpbWFzaGkvMjAyNi8yMDI2MTAxNV8wMzg0Nwo=",
+    "projectName": "2号7-108-235防災備蓄倉庫新築工事（機械）(PDFファイル:190.3KB)",
+    "orgName": "広島県東広島市",
+    "prefecture": "広島県",
+    "city": "東広島市",
+    "issueDate": "2026-10-15T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-235_kokoku.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z292Mi9rYWlob19tbGl0XzA5a2Fua3UvMjAyNi8yMDI2MTAxNV8wMDU0Mwo=",
+    "projectName": "上戸町宿舎内装等改良改修工事",
+    "orgName": "海上保安庁第九管区海上保安本部",
+    "prefecture": "新潟県",
+    "city": "新潟市",
+    "issueDate": "2026-10-15T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.kaiho.mlit.go.jp/09kanku/soumubu/nyuusatu/koukoku/R8nendo/r8_keiri_c27_koukoku.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "ZnVrdW9rYS9rYXN1eWFfdG93bi5wbC8yMDI2LzIwMjYxMDE1XzAwMDg4Cg==",
+    "projectName": "大川小学校プール解体工事（条件付一般競争入札）",
+    "orgName": "福岡県粕屋町",
+    "prefecture": "福岡県",
+    "city": "粕屋町",
+    "issueDate": "2026-10-15T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.town.kasuya.fukuoka.jp/s055/040/010/010/010/820/koukoku.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aG9ra2FpZG8yL3RvYmV0c3VfdG93bi8yMDI2LzIwMjYxMDE1XzAwMDE3Cg==",
+    "projectName": "当別町新庁舎建設事業業務委託公募型プロポーザルの実施について",
+    "orgName": "北海道当別町",
+    "prefecture": "北海道",
+    "city": "当別町",
+    "issueDate": "2026-10-15T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31716.pdf",
+    "category": "内装修繕役務"
+  },
+  {
     "key": "dG9jaGlnaS9uYXN1c2hpb2JhcmFfY2l0eS8yMDI2LzIwMjYxMDE0XzAxMDM4Cg==",
     "projectName": "126084 那須塩原市新庁舎建設工事 (PDFファイル: 597.4KB)",
     "orgName": "栃木県那須塩原市",
@@ -30,6 +140,17 @@
     "issueDate": "2026-10-14T00:00:00+09:00",
     "deadline": "",
     "url": "https://www.city.minamisoma.lg.jp/material/files/group/4/koukoku_170.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "c2VhcmNoL3BfcG9ydGFsLzIwMjYvMTAvMjAyNjEwMTRfODAzMzUK",
+    "projectName": "札幌家簡裁庁舎改修工事（再度）",
+    "orgName": "最高裁判所",
+    "prefecture": "東京都",
+    "city": "",
+    "issueDate": "2026-10-14T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101",
     "category": "内装工事"
   },
   {
