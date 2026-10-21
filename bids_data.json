@@ -1,5 +1,93 @@
 [
   {
+    "key": "c2VhcmNoL3BfcG9ydGFsLzIwMjYvMTAvMjAyNjEwMjBfODA2MDEK",
+    "projectName": "【第三管区海上保安本部】川崎（署）仮庁舎内装等改修工事",
+    "orgName": "国土交通省",
+    "prefecture": "神奈川県",
+    "city": "",
+    "issueDate": "2026-10-20T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101",
+    "category": "内装工事"
+  },
+  {
+    "key": "b2tpbmF3YS9uYWdvX2NpdHkvMjAyNi8yMDI2MTAyMF8wMDU3NQo=",
+    "projectName": "小学校空調設備改修工事（久志小学校）",
+    "orgName": "沖縄県名護市",
+    "prefecture": "沖縄県",
+    "city": "名護市",
+    "issueDate": "2026-10-20T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.nago.okinawa.jp/kurashi/2021081000053/file_contents/1bb.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "bmFnYW5vL3VlZGFfY2l0eS8yMDI2LzIwMjYxMDIwXzAyNTI1Cg==",
+    "projectName": "6 旧倉沢家住宅主屋北側及び西側外壁改修工事",
+    "orgName": "長野県上田市",
+    "prefecture": "長野県",
+    "city": "上田市",
+    "issueDate": "2026-10-20T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/86562.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "bmFnYW5vL2luYV9jaXR5LzIwMjYvMjAyNjEwMjBfMDE5NzYK",
+    "projectName": "令和8年度 高遠温泉さくらの湯 休憩室内装改修工事【建築一式工事Ｃ・Ｄ・Ｅ・Ｆ級（市内本店）】",
+    "orgName": "長野県伊那市",
+    "prefecture": "長野県",
+    "city": "伊那市",
+    "issueDate": "2026-10-20T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081020_4_koukoku.files/4_1_koukoku_sakuranoyu_naisou.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "bWl5YXpha2kvbWltYXRhX3Rvd24vMjAyNi8yMDI2MTAyMF8wMDM5NAo=",
+    "projectName": "令和８年度 多目的スポーツセンター空調機設置工事",
+    "orgName": "宮崎県三股町",
+    "prefecture": "宮崎県",
+    "city": "三股町",
+    "issueDate": "2026-10-20T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://secure.haishin.jp/mimata/files/1039_tamokutekisportscenter-kuuchoukouji_koukoku_20261106.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "a2FuYWdhd2EvenVzaGlfY2l0eS8yMDI2LzIwMjYxMDIwXzAwMzY5Cg==",
+    "projectName": "史跡名越切通まんだら堂やぐら群C群整備工事",
+    "orgName": "神奈川県逗子市",
+    "prefecture": "神奈川県",
+    "city": "逗子市",
+    "issueDate": "2026-10-20T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_mandaradouseibi2.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "a2FuYWdhd2EvenVzaGlfY2l0eS8yMDI2LzIwMjYxMDIwXzAwMzY4Cg==",
+    "projectName": "新宿会館建具改修工事",
+    "orgName": "神奈川県逗子市",
+    "prefecture": "神奈川県",
+    "city": "逗子市",
+    "issueDate": "2026-10-20T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_sinjukukaikantategu.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "bmFnYW5vL2luYV9jaXR5LzIwMjYvMjAyNjEwMjBfMDE5NzcK",
+    "projectName": "令和8年度 伊那スタジアムトイレ改修ほか 工事 実施設計業務委託【建築コンサルタント（一級・二級建築士2名以上）（市内本店）】",
+    "orgName": "長野県伊那市",
+    "prefecture": "長野県",
+    "city": "伊那市",
+    "issueDate": "2026-10-20T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081020_5_koukoku.files/5_1_koukoku_inastadium_toilet_sekkei.pdf",
+    "category": "内装修繕役務"
+  },
+  {
     "key": "dG9rdXNoaW1hL2FuYW5zaGkvMjAyNi8yMDI2MTAxOV8wMTI1NAo=",
     "projectName": "今津小学校高圧引込ケーブル改修工事",
     "orgName": "徳島県阿南市",
@@ -2505,50 +2593,6 @@
     "issueDate": "2026-08-24T00:00:00+09:00",
     "deadline": "",
     "url": "https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/900/08sisu85.pdf",
-    "category": "内装工事"
-  },
-  {
-    "key": "c2FpdGFtYS9zYXlhbWFfY2l0eS8yMDI2LzIwMjYwODIxXzAwOTk4Cg==",
-    "projectName": "【8月21日公告】狭山市中部備蓄倉庫改修工事",
-    "orgName": "埼玉県狭山市",
-    "prefecture": "埼玉県",
-    "city": "狭山市",
-    "issueDate": "2026-08-21T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202608211.files/8-25_koukoku.pdf",
-    "category": "内装工事"
-  },
-  {
-    "key": "bWl5YWdpL2hpZ2FzaGltYXRzdXNoaW1hX2NpdHkvMjAyNi8yMDI2MDgyMV8wMDMyNgo=",
-    "projectName": "令和8年度 矢本東小学校トイレ改修工事",
-    "orgName": "宮城県東松島市",
-    "prefecture": "宮城県",
-    "city": "東松島市",
-    "issueDate": "2026-08-21T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.higashimatsushima.miyagi.jp/jigyosya/keiyaku-nyusatsu/keiyaku-nyusatsu/ippankyosonyusatsu/kanzaikeiyakuk1119.files/10yamotohigasitoire.zip",
-    "category": "内装工事"
-  },
-  {
-    "key": "Z2lmdS9naWZ1X2tvc2VuLzIwMjYvMjAyNjA4MjFfMDAxNjkK",
-    "projectName": "岐阜工業高専2号館東空調改修工事（Ⅱ期）(再公告)（328KB）",
-    "orgName": "独立行政法人国立高等専門学校機構岐阜工業高等専門学校",
-    "prefecture": "岐阜県",
-    "city": "本巣市",
-    "issueDate": "2026-08-21T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.gifu-nct.ac.jp/uploads/2589/1_1.pdf",
-    "category": "内装工事"
-  },
-  {
-    "key": "ZWhpbWUvZWhpbWVfdV9hYy8yMDI2LzIwMjYwODIxXzAwMDkxCg==",
-    "projectName": "愛媛大学（城北）大学会館改修機械設備工事",
-    "orgName": "国立大学法人愛媛大学",
-    "prefecture": "愛媛県",
-    "city": "松山市",
-    "issueDate": "2026-08-21T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://shisetsu.office.ehime-u.ac.jp/contents/shisetsukikaku/wp-content/uploads/sites/4/2026/08/koukoku8-15-1.pdf",
     "category": "内装工事"
   }
 ]
