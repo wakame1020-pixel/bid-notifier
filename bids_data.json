@@ -1,5 +1,49 @@
 [
   {
+    "key": "dG9reW8vZW52X2dhcmRlbl9rb2t5b2dhaWVuLzIwMjYvMjAyNjEwMjNfMDAwMjkK",
+    "projectName": "令和８年度皇居外苑和田倉休憩所トイレ塗装等改修工事（再度公告）",
+    "orgName": "環境省皇居外苑",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "issueDate": "2026-10-23T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.env.go.jp/garden/kokyogaien/4_sup/2022/sup_00151.html",
+    "category": "内装工事"
+  },
+  {
+    "key": "dG9reW8vdG9reW9fcm91ZG91a3lva3UvMjAyNi8yMDI2MTAyM18wMDg4Ngo=",
+    "projectName": "飯田橋公共職業安定所 レイアウト変更に伴う内装工事",
+    "orgName": "厚生労働省東京労働局",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "issueDate": "2026-10-23T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://jsite.mhlw.go.jp//tokyo-roudoukyoku/content/contents/002865450.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "c2VhcmNoL3BfcG9ydGFsLzIwMjYvMTAvMjAyNjEwMjNfODA4MjkK",
+    "projectName": "外務本省北庁舎8階食堂内装改修工事",
+    "orgName": "外務省",
+    "prefecture": "東京都",
+    "city": "",
+    "issueDate": "2026-10-23T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z292NC9lbnZfZ28vMjAyNi8yMDI2MTAyM18wNTg3Mwo=",
+    "projectName": "令和８年度皇居外苑和田倉休憩所トイレ塗装等改修工事（再度公告）",
+    "orgName": "環境省",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "issueDate": "2026-10-23T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.env.go.jp/kanbo/chotatsu/buppin/chotatsu_00052.html",
+    "category": "内装工事"
+  },
+  {
     "key": "dG9rdXNoaW1hL2FuYW5zaGkvMjAyNi8yMDI2MTAyMl8wMTI2NAo=",
     "projectName": "阿南社会福祉会館改修工事監理業務",
     "orgName": "徳島県阿南市",
@@ -2593,39 +2637,6 @@
     "issueDate": "2026-08-25T00:00:00+09:00",
     "deadline": "",
     "url": "https://www.kaiho.mlit.go.jp/02kanku/nyusatu/00_kokoku/r8_8/20260825_kodomarimisaki/20260825_kodomari_koukoku.pdf",
-    "category": "内装工事"
-  },
-  {
-    "key": "dG9jaGlnaS9ub2dpX3Rvd24vMjAyNi8yMDI2MDgyNF8wMDA1Mgo=",
-    "projectName": "健康センター解体工事",
-    "orgName": "栃木県野木町",
-    "prefecture": "栃木県",
-    "city": "野木町",
-    "issueDate": "2026-08-24T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.town.nogi.lg.jp/data/doc/1787535671_doc_44_0.pdf",
-    "category": "内装工事"
-  },
-  {
-    "key": "Z2lmdS90YWtheWFtYV9jaXR5LzIwMjYvMjAyNjA4MjRfMDAwOTgK",
-    "projectName": "08消総第75号国府支団1−2広瀬班団車庫新築工事",
-    "orgName": "岐阜県高山市",
-    "prefecture": "岐阜県",
-    "city": "高山市",
-    "issueDate": "2026-08-24T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/900/08syousou75.pdf",
-    "category": "内装工事"
-  },
-  {
-    "key": "Z2lmdS90YWtheWFtYV9jaXR5LzIwMjYvMjAyNjA4MjRfMDAwOTUK",
-    "projectName": "08市ス第85号国府B＆G・清見B＆Gプール照明LED改修工事",
-    "orgName": "岐阜県高山市",
-    "prefecture": "岐阜県",
-    "city": "高山市",
-    "issueDate": "2026-08-24T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/023/900/08sisu85.pdf",
     "category": "内装工事"
   }
 ]
