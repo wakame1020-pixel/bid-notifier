@@ -1,5 +1,60 @@
 [
   {
+    "key": "dG9rdXNoaW1hL2FuYW5zaGkvMjAyNi8yMDI2MTAyNl8wMTI2NQo=",
+    "projectName": "大潟漁港内Ｃ防波堤標識灯更新工事",
+    "orgName": "徳島県阿南市",
+    "prefecture": "徳島県",
+    "city": "阿南市",
+    "issueDate": "2026-10-26T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.anan.tokushima.jp/docs/2026102200108/file_contents/261026-1.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "bmlpZ2F0YS9pdG9pZ2F3YV9jaXR5LzIwMjYvMjAyNjEwMjZfMDQzMjcK",
+    "projectName": "福工第1号 ビーチホールまがたまホワイエ他床張替工事 [PDFファイル／119KB]",
+    "orgName": "新潟県糸魚川市",
+    "prefecture": "新潟県",
+    "city": "糸魚川市",
+    "issueDate": "2026-10-26T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.itoigawa.lg.jp/uploaded/attachment/20819.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "bmFnYW5vL3N1emFrYV9jaXR5LzIwMjYvMjAyNjEwMjZfMDAwODQK",
+    "projectName": "11月12日開札（一般競争）豊島団地消毒飛散防止ネット修繕工事",
+    "orgName": "長野県須坂市",
+    "prefecture": "長野県",
+    "city": "須坂市",
+    "issueDate": "2026-10-26T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.suzaka.nagano.jp/material/files/group/4/261026koukoku140_.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "bmFnYW5vL2Vudl9jaHVidV9zaGluZXRzdS8yMDI2LzIwMjYxMDI2XzAwMjcyCg==",
+    "projectName": "令和７年度（補正繰越）上信越高原国立公園鹿沢インフォメーションセンター空調設備等改修工事（再度公告）",
+    "orgName": "環境省信越自然環境事務所",
+    "prefecture": "長野県",
+    "city": "長野市",
+    "issueDate": "2026-10-26T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://chubu.env.go.jp/shinetsu/content/000437590.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "bWllL2tpc29zYWtpX3Rvd24vMjAyNi8yMDI2MTAyNl8wMDA0OAo=",
+    "projectName": "令和8年度 上水道第6号 弘法池受水場耐震補強工事",
+    "orgName": "三重県木曾岬町",
+    "prefecture": "三重県",
+    "city": "木曾岬町",
+    "issueDate": "2026-10-26T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.town.kisosaki.lg.jp/cmsfiles/contents/0000003/3211/88-koukoku.pdf",
+    "category": "内装工事"
+  },
+  {
     "key": "dG9reW8vZW52X2dhcmRlbl9rb2t5b2dhaWVuLzIwMjYvMjAyNjEwMjNfMDAwMjkK",
     "projectName": "令和８年度皇居外苑和田倉休憩所トイレ塗装等改修工事（再度公告）",
     "orgName": "環境省皇居外苑",
@@ -2362,39 +2417,6 @@
     "issueDate": "2026-08-28T00:00:00+09:00",
     "deadline": "",
     "url": "https://www.town.kumejima.okinawa.jp/docs/2026082800022/file_contents/01_.pdf",
-    "category": "内装工事"
-  },
-  {
-    "key": "bmFyYS90ZW5yaV9jaXR5LzIwMjYvMjAyNjA4MjdfMDAwMTgK",
-    "projectName": "井戸堂小学校プール集約化に伴う改修工事",
-    "orgName": "奈良県天理市",
-    "prefecture": "奈良県",
-    "city": "天理市",
-    "issueDate": "2026-08-27T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.tenri.nara.jp/material/files/group/12/kenchiku_koukokubun_nyusatukanrenshorui.zip",
-    "category": "内装工事"
-  },
-  {
-    "key": "aGlyb3NoaW1hL2hpZ2FzaGloaXJvc2hpbWFzaGkvMjAyNi8yMDI2MDgyN18wMzgxOAo=",
-    "projectName": "総【JV】7-108-202防災備蓄倉庫新築工事（建築）(PDFファイル:325.4KB)",
-    "orgName": "広島県東広島市",
-    "prefecture": "広島県",
-    "city": "東広島市",
-    "issueDate": "2026-08-27T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.higashihiroshima.lg.jp/material/files/group/7/7-108-202.pdf",
-    "category": "内装工事"
-  },
-  {
-    "key": "Z292MTMvbW9mX2thbnRvLzIwMjYvMjAyNjA4MjdfMDA3MTgK",
-    "projectName": "(26)宮代住宅室内改修その他工事(第2期)監理業務",
-    "orgName": "財務省関東財務局",
-    "prefecture": "埼玉県",
-    "city": "さいたま市",
-    "issueDate": "2026-08-27T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://lfb.mof.go.jp/kantou/procurement/miyashiro_renova_20260827.pdf",
     "category": "内装工事"
   }
 ]
