@@ -1,5 +1,104 @@
 [
   {
+    "key": "eWFtYWdhdGEvdHN1cnVva2FfY2l0eS8yMDI2LzIwMjYxMDI3XzAyMzAwCg==",
+    "projectName": "10月27日公告（建築一式A）格付指定型一般競争入札の公告について 工事名：鶴岡市立あさひ小学校バリアフリートイレ改修工事",
+    "orgName": "山形県鶴岡市",
+    "prefecture": "山形県",
+    "city": "鶴岡市",
+    "issueDate": "2026-10-27T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.tsuruoka.lg.jp/sangyo/nyusatsu/nyusatukoukoku/20261027koukoku1.files/20261027koukoku1-1.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "dG9rdXNoaW1hL2FuYW5zaGkvMjAyNi8yMDI2MTAyN18wMTI2Ngo=",
+    "projectName": "阿南第一中学校バス待合所設置工事",
+    "orgName": "徳島県阿南市",
+    "prefecture": "徳島県",
+    "city": "阿南市",
+    "issueDate": "2026-10-27T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.anan.tokushima.jp/docs/2026102200122/file_contents/261027-1.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "c2VhcmNoL3BfcG9ydGFsLzIwMjYvMTAvMjAyNjEwMjdfODEwMjgK",
+    "projectName": "千葉労働基準監督署 移転に伴う入居工事（Ｃ工事）",
+    "orgName": "厚生労働省",
+    "prefecture": "千葉県",
+    "city": "",
+    "issueDate": "2026-10-27T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101",
+    "category": "内装工事"
+  },
+  {
+    "key": "bmFnYW5vL2tvbWFnYW5lX2NpdHkvMjAyNi8yMDI2MTAyN18wMDY0Mgo=",
+    "projectName": "令和8年度 保育所管理事業 新保育園建設 建築工事",
+    "orgName": "長野県駒ケ根市",
+    "prefecture": "長野県",
+    "city": "駒ケ根市",
+    "issueDate": "2026-10-27T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.komagane.nagano.jp/material/files/group/4/081026_Kokoku161.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "bWl5YWdpL3NoaXJvaXNoaV9jaXR5LzIwMjYvMjAyNjEwMjdfMDAzMzQK",
+    "projectName": "入札公告（令和8年度 壽丸屋敷門・板塀修繕工事)",
+    "orgName": "宮城県白石市",
+    "prefecture": "宮城県",
+    "city": "白石市",
+    "issueDate": "2026-10-27T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.shiroishi.miyagi.jp/uploaded/attachment/31400.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z2lmdS9zZWtpX2NpdHkvMjAyNi8yMDI2MTAyN18wMDQwMAo=",
+    "projectName": "管第43号 わかくさ・プラザ 総合体育館事務室内装等改修工事",
+    "orgName": "岐阜県関市",
+    "prefecture": "岐阜県",
+    "city": "関市",
+    "issueDate": "2026-10-27T00:00:00+09:00",
+    "deadline": "2026-11-05T00:00:00+09:00",
+    "url": "https://www.city.seki.lg.jp/cmsfiles/contents/0000023/23591/kan43_kokuzi.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "ZnVrdXNoaW1hL21vdG9taXlhX2NpdHkvMjAyNi8yMDI2MTAyN18wMTAyNwo=",
+    "projectName": "総合体育館防火扉更新工事 [PDFファイル／167KB]",
+    "orgName": "福島県本宮市",
+    "prefecture": "福島県",
+    "city": "本宮市",
+    "issueDate": "2026-10-27T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.motomiya.lg.jp/uploaded/attachment/31019.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "bmFnYW5vL2tvbWFnYW5lX2NpdHkvMjAyNi8yMDI2MTAyN18wMDYzOQo=",
+    "projectName": "令和8年度 駅前ビル活性化センター管理事業 駒ヶ根駅前ビル「アルパ」再整備工事基本設計業務委託",
+    "orgName": "長野県駒ケ根市",
+    "prefecture": "長野県",
+    "city": "駒ケ根市",
+    "issueDate": "2026-10-27T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.komagane.nagano.jp/material/files/group/4/081026_Kokoku166.zip",
+    "category": "内装修繕役務"
+  },
+  {
+    "key": "bmFnYW5vL2luYV9jaXR5LzIwMjYvMjAyNjEwMjdfMDE5NzgK",
+    "projectName": "令和8年度 伊那東小学校ほか 照明LED化改修工事 実施設計業務委託【建築コンサルタント（一級・二級建築士2名以上）（市内本店）】",
+    "orgName": "長野県伊那市",
+    "prefecture": "長野県",
+    "city": "伊那市",
+    "issueDate": "2026-10-27T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.inacity.jp/shisei/nyusatsu_keiyaku/kokoku_consultant/081027_1_koukoku.files/1_1_koukoku_inahigasi_LED_sekkei.pdf",
+    "category": "内装修繕役務"
+  },
+  {
     "key": "dG9rdXNoaW1hL2FuYW5zaGkvMjAyNi8yMDI2MTAyNl8wMTI2NQo=",
     "projectName": "大潟漁港内Ｃ防波堤標識灯更新工事",
     "orgName": "徳島県阿南市",
@@ -2373,50 +2472,6 @@
     "issueDate": "2026-08-31T00:00:00+09:00",
     "deadline": "",
     "url": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101",
-    "category": "内装工事"
-  },
-  {
-    "key": "c2FpdGFtYS9zYXlhbWFfY2l0eS8yMDI2LzIwMjYwODI4XzAxMDAxCg==",
-    "projectName": "【8月28日公告】狭山市立柏原中学校除湿温度保持工事（機械設備）",
-    "orgName": "埼玉県狭山市",
-    "prefecture": "埼玉県",
-    "city": "狭山市",
-    "issueDate": "2026-08-28T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202608281.files/8-28_koukoku.pdf",
-    "category": "内装工事"
-  },
-  {
-    "key": "c2FnYS9zYWdhX3VfYWMvMjAyNi8yMDI2MDgyOF8wMDE1NQo=",
-    "projectName": "佐賀大学（本庄町１）理工学部８号館等コスメティックサイエンス学環改修工事",
-    "orgName": "国立大学法人佐賀大学",
-    "prefecture": "佐賀県",
-    "city": "佐賀市",
-    "issueDate": "2026-08-28T00:00:00+09:00",
-    "deadline": "",
-    "url": "http://www.shisetsu.admin.saga-u.ac.jp/kigyo/nyusatsu/00_pdf_zip/koukoku/k0815.pdf",
-    "category": "内装工事"
-  },
-  {
-    "key": "b2tpbmF3YS9rdW1lamppbWFfdG93bi8yMDI2LzIwMjYwODI4XzAwMDIzCg==",
-    "projectName": "消防本部庁舎改修工事に係る条件付き一般競争入札について",
-    "orgName": "沖縄県久米島町",
-    "prefecture": "沖縄県",
-    "city": "久米島町",
-    "issueDate": "2026-08-28T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.town.kumejima.okinawa.jp/docs/2026082800022/file_contents/01_sanitized.pdf",
-    "category": "内装工事"
-  },
-  {
-    "key": "b2tpbmF3YS9rdW1lamppbWFfdG93bi8yMDI2LzIwMjYwODI4XzAwMDI0Cg==",
-    "projectName": "消防本部庁舎改修工事に係る条件付き一般競争入札について",
-    "orgName": "沖縄県久米島町",
-    "prefecture": "沖縄県",
-    "city": "久米島町",
-    "issueDate": "2026-08-28T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.town.kumejima.okinawa.jp/docs/2026082800022/file_contents/01_.pdf",
     "category": "内装工事"
   }
 ]
