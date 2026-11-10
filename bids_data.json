@@ -1,5 +1,38 @@
 [
   {
+    "key": "dG9rdXNoaW1hL2FuYW5zaGkvMjAyNi8yMDI2MTEwOV8wMTI4MAo=",
+    "projectName": "阿南第二中学校管理棟屋上防水改修工事",
+    "orgName": "徳島県阿南市",
+    "prefecture": "徳島県",
+    "city": "阿南市",
+    "issueDate": "2026-11-09T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.anan.tokushima.jp/docs/2026110600013/file_contents/20261109-1.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aG9ra2FpZG8yL3NpbnJpbmthbnJpa3lva3UvMjAyNi8yMDI2MTEwOV8xMjIzMQo=",
+    "projectName": "日高北部森林管理署宿舎給湯器等更新工事（オープンカウンター方式による見積合わせ）",
+    "orgName": "林野庁北海道森林管理局",
+    "prefecture": "北海道",
+    "city": "札幌市",
+    "issueDate": "2026-11-09T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/hidakahokubu/attach/pdf/261109-1.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "aGlyb3NoaW1hL2hpcm9zaGltYV9hYy8yMDI2LzIwMjYxMTA5XzAwMTY5Cg==",
+    "projectName": "広島大学（翠）小学校体育館アリーナ床改修工事",
+    "orgName": "国立大学法人広島大学",
+    "prefecture": "広島県",
+    "city": "東広島市",
+    "issueDate": "2026-11-09T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://sisetuweb1.mext.go.jp/mdbskn/frontsite/public/construct/detail.asp?kanribangou=08033620261000003",
+    "category": "内装工事"
+  },
+  {
     "key": "eWFtYWd1Y2hpL2hpa2FyaV9jaXR5LzIwMjYvMjAyNjExMDZfMDAzNTgK",
     "projectName": "旧みたらい保育園解体工事",
     "orgName": "山口県光市",
@@ -2220,60 +2253,5 @@
     "deadline": "",
     "url": "https://www.town.shintomi.lg.jp/material/files/group/4/koukoku_hukusisennta-sekkei.pdf",
     "category": "内装修繕役務"
-  },
-  {
-    "key": "dG9reW8va3RyX21saXRfdG9reW8yZXovMjAyNi8yMDI2MDkxMF8wMDExOAo=",
-    "projectName": "成田空港合同庁舎（２６）受変電設備改修その他工事[PDF：221KB]",
-    "orgName": "国土交通省関東地方整備局東京第二営繕事務所",
-    "prefecture": "東京都",
-    "city": "江東区",
-    "issueDate": "2026-09-10T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.ktr.mlit.go.jp/ktr_content/content/000957440.pdf",
-    "category": "内装工事"
-  },
-  {
-    "key": "Z292Mi9rYWlob19tbGl0XzA5a2Fua3UvMjAyNi8yMDI2MDkxMF8wMDUzNgo=",
-    "projectName": "遭埼行者礁照射灯災害復旧工事",
-    "orgName": "海上保安庁第九管区海上保安本部",
-    "prefecture": "新潟県",
-    "city": "新潟市",
-    "issueDate": "2026-09-10T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.kaiho.mlit.go.jp/09kanku/soumubu/nyuusatu/koukoku/R8nendo/r8_keiri_c15_koukoku.pdf",
-    "category": "内装工事"
-  },
-  {
-    "key": "Z292MTMvbW9mX2thbnRvLzIwMjYvMjAyNjA5MTBfMDA3MjcK",
-    "projectName": "(26)向台住宅屋外排水設備改修工事",
-    "orgName": "財務省関東財務局",
-    "prefecture": "埼玉県",
-    "city": "さいたま市",
-    "issueDate": "2026-09-10T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://lfb.mof.go.jp/kantou/procurement/20260910mukoudaihaisui.pdf",
-    "category": "内装工事"
-  },
-  {
-    "key": "Z292MTMvbW9mX2thbnRvLzIwMjYvMjAyNjA5MTBfMDA3MjYK",
-    "projectName": "(26)中野住宅ほか共用部照明器具改修工事",
-    "orgName": "財務省関東財務局",
-    "prefecture": "埼玉県",
-    "city": "さいたま市",
-    "issueDate": "2026-09-10T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://lfb.mof.go.jp/kantou/procurement/20260910nakanosyoumeikigu.pdf",
-    "category": "内装工事"
-  },
-  {
-    "key": "Z292MTMvbW9mX2thbnRvLzIwMjYvMjAyNjA5MTBfMDA3MjUK",
-    "projectName": "(26)西大久保住宅ほか共用部照明器具改修工事",
-    "orgName": "財務省関東財務局",
-    "prefecture": "埼玉県",
-    "city": "さいたま市",
-    "issueDate": "2026-09-10T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://lfb.mof.go.jp/kantou/procurement/20260910nishiookubosyoumeikigu.pdf",
-    "category": "内装工事"
   }
 ]
