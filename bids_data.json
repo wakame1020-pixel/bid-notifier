@@ -1,5 +1,115 @@
 [
   {
+    "key": "eWFtYW5hc2hpL3lhbWFuYXNoaV9jaXR5LzIwMjYvMjAyNjExMTFfMDAxMDIK",
+    "projectName": "山梨分団第三部詰所建設工事(明許)",
+    "orgName": "山梨県山梨市",
+    "prefecture": "山梨県",
+    "city": "山梨市",
+    "issueDate": "2026-11-11T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.yamanashi.yamanashi.jp/uploaded/attachment/12572.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "bWl5YWdpL2tha3VkYV9jaXR5LzIwMjYvMjAyNjExMTFfMDAzMTYK",
+    "projectName": "令和７年度（繰）野球場スタンド改修工事（その２）【入札公告】",
+    "orgName": "宮城県角田市",
+    "prefecture": "宮城県",
+    "city": "角田市",
+    "issueDate": "2026-11-11T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.kakuda.lg.jp/uploaded/attachment/11188.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "bWllL3NoaW1hX2NpdHkvMjAyNi8yMDI2MTExMV8wMjExNgo=",
+    "projectName": "志摩市本庁舎出納執務室改修工事(建築工事)",
+    "orgName": "三重県志摩市",
+    "prefecture": "三重県",
+    "city": "志摩市",
+    "issueDate": "2026-11-11T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.shima.mie.jp/material/files/group/7/0201koukokuR081125.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z2lmdS9lbmFfY2l0eS8yMDI2LzIwMjYxMTExXzAwOTg0Cg==",
+    "projectName": "契商観第55号 恵那駅前東トイレ改修工事 (圧縮ファイル: 2.8MB)",
+    "orgName": "岐阜県恵那市",
+    "prefecture": "岐阜県",
+    "city": "恵那市",
+    "issueDate": "2026-11-11T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ena.lg.jp/material/files/group/3/20261111syoukann55.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "YW9tb3JpL2dvc2hvZ2F3YXJhX2NpdHkvMjAyNi8yMDI2MTExMV8wMDU2NQo=",
+    "projectName": "前田野目１地区農林災害頭首工復旧工事",
+    "orgName": "青森県五所川原市",
+    "prefecture": "青森県",
+    "city": "五所川原市",
+    "issueDate": "2026-11-11T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k044.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "YW9tb3JpL2dvc2hvZ2F3YXJhX2NpdHkvMjAyNi8yMDI2MTExMV8wMDU2NAo=",
+    "projectName": "米田２号線道路整備４工区工事",
+    "orgName": "青森県五所川原市",
+    "prefecture": "青森県",
+    "city": "五所川原市",
+    "issueDate": "2026-11-11T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k048.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "YW9tb3JpL2dvc2hvZ2F3YXJhX2NpdHkvMjAyNi8yMDI2MTExMV8wMDU2Mwo=",
+    "projectName": "小田川山線橋梁補修（小田川１号橋）工事",
+    "orgName": "青森県五所川原市",
+    "prefecture": "青森県",
+    "city": "五所川原市",
+    "issueDate": "2026-11-11T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k045.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "YW9tb3JpL2dvc2hvZ2F3YXJhX2NpdHkvMjAyNi8yMDI2MTExMV8wMDU2Mgo=",
+    "projectName": "小田川山線橋梁補修（小田川２号橋）工事",
+    "orgName": "青森県五所川原市",
+    "prefecture": "青森県",
+    "city": "五所川原市",
+    "issueDate": "2026-11-11T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k046.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "YW9tb3JpL2dvc2hvZ2F3YXJhX2NpdHkvMjAyNi8yMDI2MTExMV8wMDU2MQo=",
+    "projectName": "小田川山線橋梁補修（小田川６号橋）工事",
+    "orgName": "青森県五所川原市",
+    "prefecture": "青森県",
+    "city": "五所川原市",
+    "issueDate": "2026-11-11T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k047.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "bWl5YWdpL3NoaW9nYW1hX2NpdHkvMjAyNi8yMDI2MTExMV8wMDc2Mgo=",
+    "projectName": "令７−単 第二中学校長寿命化改良工事（3期）工事監理業務委託",
+    "orgName": "宮城県塩竃市",
+    "prefecture": "宮城県",
+    "city": "塩竃市",
+    "issueDate": "2026-11-11T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.shiogama.miyagi.jp/uploaded/life/59417_153886_misc.pdf",
+    "category": "内装修繕役務"
+  },
+  {
     "key": "bmFnYW5vL2luYV9jaXR5LzIwMjYvMjAyNjExMTBfMDE5ODgK",
     "projectName": "令和8年度 気の里ヘルスセンター栃の木ほか照明LED化改修工事【電気工事Ａ・Ｂ級（市内本店）】",
     "orgName": "長野県伊那市",
