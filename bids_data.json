@@ -1,5 +1,49 @@
 [
   {
+    "key": "c2VhcmNoL3BfcG9ydGFsLzIwMjYvMTEvMjAyNjExMjVfODI2MzcK",
+    "projectName": "海上保安学校（本館）内装改修工事",
+    "orgName": "国土交通省",
+    "prefecture": "京都府",
+    "city": "",
+    "issueDate": "2026-11-25T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z292L2phZWFfZ28vMjAyNi8yMDI2MTEyNV8wNTkyMgo=",
+    "projectName": "【電子入札】【電子契約】R8もんじゅ廃止措置用一時保管施設 新築工事",
+    "orgName": "国立研究開発法人日本原子力研究開発機構敦賀",
+    "prefecture": "茨城県",
+    "city": "東海村",
+    "issueDate": "2026-11-25T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://keiyaku.jaea.go.jp/compe/02/pdf/0804C00811.pdf",
+    "category": "内装工事"
+  },
+  {
+    "key": "Z2lmdS9lbmFfY2l0eS8yMDI2LzIwMjYxMTI1XzAwOTg3Cg==",
+    "projectName": "契商観第57号 恵那山荘客室改修工事 (圧縮ファイル: 3.6MB)",
+    "orgName": "岐阜県恵那市",
+    "prefecture": "岐阜県",
+    "city": "恵那市",
+    "issueDate": "2026-11-25T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.ena.lg.jp/material/files/group/3/20261125syoukann57.zip",
+    "category": "内装工事"
+  },
+  {
+    "key": "YW9tb3JpL2dvc2hvZ2F3YXJhX2NpdHkvMjAyNi8yMDI2MTEyNV8wMDU3MQo=",
+    "projectName": "七ツ館地区外排水路整備４工区工事",
+    "orgName": "青森県五所川原市",
+    "prefecture": "青森県",
+    "city": "五所川原市",
+    "issueDate": "2026-11-25T00:00:00+09:00",
+    "deadline": "",
+    "url": "https://www.city.goshogawara.lg.jp/jouhou/nyusatsu/files/r8i.k049.pdf",
+    "category": "内装工事"
+  },
+  {
     "key": "aG9ra2FpZG8vaGtkX21saXRfZ29faG9uYnUvMjAyNi8yMDI2MTEyNF8wODQ3MQo=",
     "projectName": "北見法務総合庁舎改修２６建築その他工事",
     "orgName": "国土交通省北海道開発局",
@@ -2164,17 +2208,6 @@
     "issueDate": "2026-09-28T00:00:00+09:00",
     "deadline": "",
     "url": "https://www.city.ogaki.lg.jp/cmsfiles/contents/0000070/70965/332gou_shiyoushotou.zip",
-    "category": "内装工事"
-  },
-  {
-    "key": "Z292Mi9rYWlob19tbGl0XzA4a2Fua3UvMjAyNi8yMDI2MDkyNl8wMDU1Mgo=",
-    "projectName": "第八管区海上保安本部情報通信課OAフロア設置等工事",
-    "orgName": "海上保安庁第八管区海上保安本部",
-    "prefecture": "京都府",
-    "city": "舞鶴市",
-    "issueDate": "2026-09-26T00:00:00+09:00",
-    "deadline": "",
-    "url": "https://www.kaiho.mlit.go.jp/08kanku/nyuusatu/tenpu/R8/kouji_fune/jou5/jou5-koukoku.pdf",
     "category": "内装工事"
   }
 ]
